@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
   <head>
     <title>RSS Feeds</title>
@@ -6,398 +6,325 @@
   <body>
     <outline language="tr">
     <outline text="baseFeed.science" title="baseFeed.science">
-      <outline type="rss" text="Arkeofili" title="Arkeofili" xmlUrl="https://arkeofili.com/feed/"/>
-      <outline type="rss" text="Beyinsizler" title="Beyinsizler" xmlUrl="https://beyinsizler.net/feed/"/>
-      <outline type="rss" text="Bilim Günlüğü" title="Bilim Günlüğü" xmlUrl="https://www.bilimgunlugu.com/feed/"/>
-      <outline type="rss" text="Bilim ve Gelecek" title="Bilim ve Gelecek" xmlUrl="https://bilimvegelecek.com.tr/index.php/feed/"/>
-      <outline type="rss" text="Bilimoloji" title="Bilimoloji" xmlUrl="https://www.bilimoloji.com/feed/"/>
-      <outline type="rss" text="Bilimup" title="Bilimup" xmlUrl="https://www.bilimup.com/rss.xml"/>
-      <outline type="rss" text="DijitalX" title="DijitalX" xmlUrl="https://www.dijitalx.com/feed/"/>
-      <outline type="rss" text="Evrim Ağacı" title="Evrim Ağacı" xmlUrl="https://evrimagaci.org/rss.xml"/>
-      <outline type="rss" text="Tarihli Bilim" title="Tarihli Bilim" xmlUrl="https://www.tarihlibilim.com/feed/"/>
-      <outline type="rss" text="Tarihten Yazılar" title="Tarihten Yazılar" xmlUrl="https://tarihtenyazilar.com/feed/"/>
-      <outline type="rss" text="Fizikist" title="Fizikist" xmlUrl="https://www.fizikist.com/feed"/>
-      <outline type="rss" text="Gerçek Bilim" title="Gerçek Bilim" xmlUrl="https://www.gercekbilim.com/feed/"/>
-      <outline type="rss" text="Gelecek Bilimde" title="Gelecek Bilimde" xmlUrl="https://gelecekbilimde.net/feed/"/>
-      <outline type="rss" text="Herkese Bilim Teknoloji" title="Herkese Bilim Teknoloji" xmlUrl="https://www.herkesebilimteknoloji.com/feed"/>
-      <outline type="rss" text="Independent Bilim" title="Independent Bilim" xmlUrl="https://www.indyturk.com/taxonomy/term/48791/%2A/feed"/>
-      <outline type="rss" text="Kozmik Anafor" title="Kozmik Anafor" xmlUrl="https://www.kozmikanafor.com/feed/"/>
-      <outline type="rss" text="Matematiksel" title="Matematiksel" xmlUrl="https://www.matematiksel.org/feed"/>
-      <outline type="rss" text="Megabayt Bilim" title="Megabayt Bilim" xmlUrl="https://www.megabayt.com/rss/categorynews/bilim"/>
-      <outline type="rss" text="Moletik" title="Moletik" xmlUrl="https://moletik.com/feed/"/>
-      <outline type="rss" text="Popular Science" title="Popular Science" xmlUrl="https://popsci.com.tr/feed/"/>
-      <outline type="rss" text="Sarkaç" title="Sarkaç" xmlUrl="https://sarkac.org/feed/"/>
-      <outline type="rss" text="Sinirbilim" title="Sinirbilim" xmlUrl="https://sinirbilim.org/feed/"/>
+      <outline type="rss" text="Arkeofili" title="Arkeofili" xmlUrl="https://arkeofili.com/feed/" />
+      <outline type="rss" text="Beyinsizler" title="Beyinsizler" xmlUrl="https://beyinsizler.net/feed/" />
+      <outline type="rss" text="Bilim Günlüğü" title="Bilim Günlüğü" xmlUrl="https://www.bilimgunlugu.com/feed/" />
+      <outline type="rss" text="Bilim ve Gelecek" title="Bilim ve Gelecek" xmlUrl="https://bilimvegelecek.com.tr/index.php/feed/" />
+      <outline type="rss" text="Bilimoloji" title="Bilimoloji" xmlUrl="https://www.bilimoloji.com/feed/" />
+      <outline type="rss" text="Bilimup" title="Bilimup" xmlUrl="https://www.bilimup.com/rss.xml" />
+      <outline type="rss" text="DijitalX" title="DijitalX" xmlUrl="https://www.dijitalx.com/feed/" />
+      <outline type="rss" text="Evrim Ağacı" title="Evrim Ağacı" xmlUrl="https://evrimagaci.org/rss.xml" />
+      <outline type="rss" text="Tarihli Bilim" title="Tarihli Bilim" xmlUrl="https://www.tarihlibilim.com/feed/" />
+      <outline type="rss" text="Tarihten Yazılar" title="Tarihten Yazılar" xmlUrl="https://tarihtenyazilar.com/feed/" />
+      <outline type="rss" text="Fizikist" title="Fizikist" xmlUrl="https://www.fizikist.com/feed" />
+      <outline type="rss" text="Gerçek Bilim" title="Gerçek Bilim" xmlUrl="https://www.gercekbilim.com/feed/" />
+      <outline type="rss" text="Gelecek Bilimde" title="Gelecek Bilimde" xmlUrl="https://gelecekbilimde.net/feed/" />
+      <outline type="rss" text="Herkese Bilim Teknoloji" title="Herkese Bilim Teknoloji" xmlUrl="https://www.herkesebilimteknoloji.com/feed" />
+      <outline type="rss" text="Independent Bilim" title="Independent Bilim" xmlUrl="https://www.indyturk.com/taxonomy/term/48791/%2A/feed" />
+      <outline type="rss" text="Matematiksel" title="Matematiksel" xmlUrl="https://www.matematiksel.org/feed" />
+      <outline type="rss" text="Moletik" title="Moletik" xmlUrl="https://moletik.com/feed/" />
+      <outline type="rss" text="Popular Science" title="Popular Science" xmlUrl="https://popsci.com.tr/feed/" />
+      <outline type="rss" text="Sinirbilim" title="Sinirbilim" xmlUrl="https://sinirbilim.org/feed/" />
     </outline>
     <outline text="baseFeed.technology" title="baseFeed.technology">
-      <outline type="rss" text="Beetekno" title="Beetekno" xmlUrl="https://www.beetekno.com/feed/posts"/>
-      <outline type="rss" text="Campaign Türkiye" title="Campaign Türkiye" xmlUrl="https://www.campaigntr.com/feed/"/>
-      <outline type="rss" text="CHIP Online" title="CHIP Online" xmlUrl="https://www.chip.com.tr/rss"/>
-      <outline type="rss" text="ÇözümPark" title="ÇözümPark" xmlUrl="https://www.cozumpark.com/feed/"/>
-      <outline type="rss" text="Dijitaliyidir" title="Dijitaliyidir" xmlUrl="https://dijitaliyidir.com/feed/"/>
-      <outline type="rss" text="Donanım Haber" title="Donanım Haber" xmlUrl="https://www.donanimhaber.com/rss/tum/"/>
-      <outline type="rss" text="Donanım Günlüğü" title="Donanım Günlüğü" xmlUrl="https://donanimgunlugu.com/feed"/>
-      <outline type="rss" text="FounderN" title="FounderN" xmlUrl="https://foundern.com/feed/"/>
-      <outline type="rss" text="Hardware Plus" title="Hardware Plus" xmlUrl="https://hwp.com.tr/feed"/>
-      <outline type="rss" text="Investing Teknoloji" title="Investing Teknoloji" xmlUrl="https://tr.investing.com/rss/news_288.rss"/>
-      <outline type="rss" text="İndir" title="İndir" xmlUrl="https://www.indir.com/haber/feed/"/>
-      <outline type="rss" text="LOG" title="LOG" xmlUrl="https://www.log.com.tr/feed/"/>
-      <outline type="rss" text="Megabayt" title="Megabayt" xmlUrl="https://www.megabayt.com/rss/news"/>
-      <outline type="rss" text="Megabayt Bilgisayar" title="Megabayt Bilgisayar" xmlUrl="https://www.megabayt.com/rss/categorynews/bilgisayar"/>
-      <outline type="rss" text="Megabayt Bilim ve Teknoloji" title="Megabayt Bilim ve Teknoloji" xmlUrl="https://www.megabayt.com/rss/categorynews/bilim-ve-teknoloji"/>
-      <outline type="rss" text="Megabayt Donanım" title="Megabayt Donanım" xmlUrl="https://www.megabayt.com/rss/categorynews/donanim"/>
-      <outline type="rss" text="Megabayt Nasıl Yapılır?" title="Megabayt Nasıl Yapılır?" xmlUrl="https://www.megabayt.com/rss/categorynews/nasil-yapilir"/>
-      <outline type="rss" text="Megabayt Siber Güvenlik" title="Megabayt Siber Güvenlik" xmlUrl="https://www.megabayt.com/rss/categorynews/siber-guvenlik"/>
-      <outline type="rss" text="Megabayt Sosyal Medya" title="Megabayt Sosyal Medya" xmlUrl="https://www.megabayt.com/rss/categorynews/sosyal-medya"/>
-      <outline type="rss" text="Megabayt Teknoloji" title="Megabayt Teknoloji" xmlUrl="https://www.megabayt.com/rss/categorynews/teknoloji"/>
-      <outline type="rss" text="Megabayt Yazılım" title="Megabayt Yazılım" xmlUrl="https://www.megabayt.com/rss/categorynews/yazilim"/>
-      <outline type="rss" text="PC Hocası" title="PC Hocası" xmlUrl="https://pchocasi.com.tr/feed"/>
-      <outline type="rss" text="Sordum" title="Sordum" xmlUrl="https://www.sordum.net/feed/"/>
-      <outline type="rss" text="Swipeline" title="Swipeline" xmlUrl="https://swipeline.co/feed/"/>
-      <outline type="rss" text="Techolay" title="Techolay" xmlUrl="https://techolay.net/feed/"/>
-      <outline type="rss" text="Technopat" title="Technopat" xmlUrl="https://www.technopat.net/feed/"/>
-      <outline type="rss" text="Teknoblog" title="Teknoblog" xmlUrl="https://www.teknoblog.com/feed/"/>
-      <outline type="rss" text="Teknolojioku" title="Teknolojioku" xmlUrl="https://www.teknolojioku.com/export/rss"/>
-      <outline type="rss" text="TeknoBurada" title="TeknoBurada" xmlUrl="https://www.teknoburada.net/feed/"/>
-      <outline type="rss" text="Tam İndir" title="Tam İndir" xmlUrl="https://feeds.feedburner.com/tamindir/stream"/>
-      <outline type="rss" text="VoiceTekno" title="VoiceTekno" xmlUrl="https://voicetekno.com/feed/"/>
-      <outline type="rss" text="Webmasto" title="Webmasto" xmlUrl="https://webmasto.com/feed"/>
-      <outline type="rss" text="Webrazzi" title="Webrazzi" xmlUrl="https://webrazzi.com/feed"/>
-      <outline type="rss" text="Webtekno" title="Webtekno" xmlUrl="https://www.webtekno.com/rss.xml"/>
+      <outline type="rss" text="Campaign Türkiye" title="Campaign Türkiye" xmlUrl="https://www.campaigntr.com/feed/" />
+      <outline type="rss" text="CHIP Online" title="CHIP Online" xmlUrl="https://www.chip.com.tr/rss" />
+      <outline type="rss" text="ÇözümPark" title="ÇözümPark" xmlUrl="https://www.cozumpark.com/feed/" />
+      <outline type="rss" text="Donanım Haber" title="Donanım Haber" xmlUrl="https://www.donanimhaber.com/rss/tum/" />
+      <outline type="rss" text="Donanım Günlüğü" title="Donanım Günlüğü" xmlUrl="https://donanimgunlugu.com/feed" />
+      <outline type="rss" text="FounderN" title="FounderN" xmlUrl="https://foundern.com/feed/" />
+      <outline type="rss" text="Hardware Plus" title="Hardware Plus" xmlUrl="https://hwp.com.tr/feed" />
+      <outline type="rss" text="Investing Teknoloji" title="Investing Teknoloji" xmlUrl="https://tr.investing.com/rss/news_288.rss" />
+      <outline type="rss" text="İndir" title="İndir" xmlUrl="https://www.indir.com/haber/feed/" />
+      <outline type="rss" text="LOG" title="LOG" xmlUrl="https://www.log.com.tr/feed/" />
+      <outline type="rss" text="Sordum" title="Sordum" xmlUrl="https://www.sordum.net/feed/" />
+      <outline type="rss" text="Swipeline" title="Swipeline" xmlUrl="https://swipeline.co/feed/" />
+      <outline type="rss" text="Techolay" title="Techolay" xmlUrl="https://techolay.net/feed/" />
+      <outline type="rss" text="Teknoblog" title="Teknoblog" xmlUrl="https://www.teknoblog.com/feed/" />
+      <outline type="rss" text="Teknolojioku" title="Teknolojioku" xmlUrl="https://www.teknolojioku.com/export/rss" />
+      <outline type="rss" text="TeknoBurada" title="TeknoBurada" xmlUrl="https://www.teknoburada.net/feed/" />
+      <outline type="rss" text="Tam İndir" title="Tam İndir" xmlUrl="https://feeds.feedburner.com/tamindir/stream" />
+      <outline type="rss" text="VoiceTekno" title="VoiceTekno" xmlUrl="https://voicetekno.com/feed/" />
+      <outline type="rss" text="Webrazzi" title="Webrazzi" xmlUrl="https://webrazzi.com/feed" />
+      <outline type="rss" text="Webtekno" title="Webtekno" xmlUrl="https://www.webtekno.com/rss.xml" />
     </outline>
     <outline text="baseFeed.entertainment" title="baseFeed.entertainment">
-      <outline type="rss" text="22 Dakika" title="22 Dakika" xmlUrl="https://22dakika.org/feed/"/>
-      <outline type="rss" text="Atarita" title="Atarita" xmlUrl="https://www.atarita.com/feed/"/>
-      <outline type="rss" text="Altyazı" title="Altyazı" xmlUrl="https://altyazi.net/feed/"/>
-      <outline type="rss" text="Bağımsız Sinema" title="Bağımsız Sinema" xmlUrl="https://www.bagimsizsinema.com/feed"/>
-      <outline type="rss" text="Beyaz Perde" title="Beyaz Perde" xmlUrl="https://www.beyazperde.com/rss/haberler.xml"/>
-      <outline type="rss" text="Bigumigu" title="Bigumigu" xmlUrl="https://bigumigu.com/feed/"/>
-      <outline type="rss" text="Bilimkurgu Kulübü" title="Bilimkurgu Kulübü" xmlUrl="https://www.bilimkurgukulubu.com/feed/"/>
-      <outline type="rss" text="Fantastik Canavarlar" title="Fantastik Canavarlar" xmlUrl="https://fantastikcanavarlar.com/feed/"/>
-      <outline type="rss" text="FRPNET" title="FRPNET" xmlUrl="https://frpnet.net/feed"/>
-      <outline type="rss" text="Geekyapar" title="Geekyapar" xmlUrl="https://geekyapar.com/feed/"/>
-      <outline type="rss" text="IGN Türkiye" title="IGN Türkiye" xmlUrl="https://tr.ign.com/feed.xml"/>
-      <outline type="rss" text="Kayıp Rıhtım" title="Kayıp Rıhtım" xmlUrl="https://kayiprihtim.com/feed/"/>
-      <outline type="rss" text="Keşif Asya" title="Keşif Asya" xmlUrl="https://kesifasya.com/feed/"/>
-      <outline type="rss" text="ListeList" title="ListeList" xmlUrl="https://listelist.com/feed/"/>
-      <outline type="rss" text="Marjinal Sinema" title="Marjinal Sinema" xmlUrl="https://marjinalsinema.com/feed/"/>
-      <outline type="rss" text="Merlin&apos;in Kazanı" title="Merlin&apos;in Kazanı" xmlUrl="https://www.merlininkazani.com/feed/"/>
-      <outline type="rss" text="Megabayt Dijital Platformlar" title="Megabayt Dijital Platformlar" xmlUrl="https://www.megabayt.com/rss/categorynews/dijital-platformlar"/>
-      <outline type="rss" text="Megabayt Dizi-sinema" title="Megabayt Dizi-sinema" xmlUrl="https://www.megabayt.com/rss/categorynews/dizi-sinema"/>
-      <outline type="rss" text="Megabayt Oyun" title="Megabayt Oyun" xmlUrl="https://www.megabayt.com/rss/categorynews/oyun"/>
-      <outline type="rss" text="Megabayt Sinema" title="Megabayt Sinema" xmlUrl="https://www.megabayt.com/rss/categorynews/sinema"/>
-      <outline type="rss" text="Megabayt Televizyon" title="Megabayt Televizyon" xmlUrl="https://www.megabayt.com/rss/categorynews/televizyon"/>
-      <outline type="rss" text="Megabayt Youtube" title="Megabayt Youtube" xmlUrl="https://www.megabayt.com/rss/categorynews/youtube"/>
-      <outline type="rss" text="Mister Noob" title="Mister Noob" xmlUrl="https://www.misternoob.com/feed/"/>
-      <outline type="rss" text="Mobidictum" title="Mobidictum" xmlUrl="https://mobidictum.com/tr/feed/"/>
-      <outline type="rss" text="Onedio" title="Onedio" xmlUrl="https://onedio.com/Publisher/publisher-daily.rss"/>
-      <outline type="rss" text="Öteki Sinema" title="Öteki Sinema" xmlUrl="https://www.otekisinema.com/feed/"/>
-      <outline type="rss" text="Sofos" title="Sofos" xmlUrl="https://blog.sofos.com.tr/feed/"/>
-      <outline type="rss" text="Sinetopya" title="Sinetopya" xmlUrl="https://sinetopya.com/rss/"/>
-      <outline type="rss" text="The Geyik" title="The Geyik" xmlUrl="https://www.thegeyik.com/feed/"/>
-      <outline type="rss" text="Turkmmo" title="Turkmmo" xmlUrl="https://www.turkmmo.com/feed"/>
-      <outline type="rss" text="Turuncu Levye" title="Turuncu Levye" xmlUrl="https://www.turunculevye.com/feed/"/>
+      <outline type="rss" text="22 Dakika" title="22 Dakika" xmlUrl="https://22dakika.org/feed/" />
+      <outline type="rss" text="Atarita" title="Atarita" xmlUrl="https://www.atarita.com/feed/" />
+      <outline type="rss" text="Bağımsız Sinema" title="Bağımsız Sinema" xmlUrl="https://www.bagimsizsinema.com/feed" />
+      <outline type="rss" text="Beyaz Perde" title="Beyaz Perde" xmlUrl="https://www.beyazperde.com/rss/haberler.xml" />
+      <outline type="rss" text="Bigumigu" title="Bigumigu" xmlUrl="https://bigumigu.com/feed/" />
+      <outline type="rss" text="Bilimkurgu Kulübü" title="Bilimkurgu Kulübü" xmlUrl="https://www.bilimkurgukulubu.com/feed/" />
+      <outline type="rss" text="Fantastik Canavarlar" title="Fantastik Canavarlar" xmlUrl="https://fantastikcanavarlar.com/feed/" />
+      <outline type="rss" text="FRPNET" title="FRPNET" xmlUrl="https://frpnet.net/feed" />
+      <outline type="rss" text="Geekyapar" title="Geekyapar" xmlUrl="https://geekyapar.com/feed/" />
+      <outline type="rss" text="IGN Türkiye" title="IGN Türkiye" xmlUrl="https://tr.ign.com/feed.xml" />
+      <outline type="rss" text="Kayıp Rıhtım" title="Kayıp Rıhtım" xmlUrl="https://kayiprihtim.com/feed/" />
+      <outline type="rss" text="Keşif Asya" title="Keşif Asya" xmlUrl="https://kesifasya.com/feed/" />
+      <outline type="rss" text="ListeList" title="ListeList" xmlUrl="https://listelist.com/feed/" />
+      <outline type="rss" text="Marjinal Sinema" title="Marjinal Sinema" xmlUrl="https://marjinalsinema.com/feed/" />
+      <outline type="rss" text="Merlin'in Kazanı" title="Merlin'in Kazanı" xmlUrl="https://www.merlininkazani.com/feed/" />
+      <outline type="rss" text="Mister Noob" title="Mister Noob" xmlUrl="https://www.misternoob.com/feed/" />
+      <outline type="rss" text="Mobidictum" title="Mobidictum" xmlUrl="https://mobidictum.com/tr/feed/" />
+      <outline type="rss" text="Onedio" title="Onedio" xmlUrl="https://onedio.com/Publisher/publisher-daily.rss" />
+      <outline type="rss" text="Öteki Sinema" title="Öteki Sinema" xmlUrl="https://www.otekisinema.com/feed/" />
+      <outline type="rss" text="Sofos" title="Sofos" xmlUrl="https://blog.sofos.com.tr/feed/" />
+      <outline type="rss" text="Sinetopya" title="Sinetopya" xmlUrl="https://sinetopya.com/rss/" />
+      <outline type="rss" text="The Geyik" title="The Geyik" xmlUrl="https://www.thegeyik.com/feed/" />
+      <outline type="rss" text="Turuncu Levye" title="Turuncu Levye" xmlUrl="https://www.turunculevye.com/feed/" />
     </outline>
     <outline text="baseFeed.cultureArt" title="baseFeed.cultureArt">
-      <outline type="rss" text="10layn" title="10layn" xmlUrl="https://10layn.com/feed/"/>
-      <outline type="rss" text="Artdog" title="Artdog" xmlUrl="https://artdogistanbul.com/feed/"/>
-      <outline type="rss" text="Artkolik" title="Artkolik" xmlUrl="https://www.artkolik.net/feed"/>
-      <outline type="rss" text="Argonotlar" title="Argonotlar" xmlUrl="https://argonotlar.com/feed/"/>
-      <outline type="rss" text="Arkitera" title="Arkitera" xmlUrl="https://www.arkitera.com/feed/"/>
-      <outline type="rss" text="Bant Mag" title="Bant Mag" xmlUrl="https://bantmag.com/feed/"/>
-      <outline type="rss" text="Cafrande" title="Cafrande" xmlUrl="https://www.cafrande.org/feed/"/>
-      <outline type="rss" text="Çekiçle Felsefe" title="Çekiçle Felsefe" xmlUrl="https://cekiclefelsefe.com/feed/"/>
-      <outline type="rss" text="Edebi Bülten" title="Edebi Bülten" xmlUrl="https://edebibulten.com/feed/"/>
-      <outline type="rss" text="Edebiyat Burada" title="Edebiyat Burada" xmlUrl="https://edebiyatburada.com/feed/"/>
-      <outline type="rss" text="Edebiyat Haber" title="Edebiyat Haber" xmlUrl="https://www.edebiyathaber.net/feed/"/>
-      <outline type="rss" text="Fikir Turu" title="Fikir Turu" xmlUrl="https://fikirturu.com/feed/"/>
-      <outline type="rss" text="Kilikya Dergisi" title="Kilikya Dergisi" xmlUrl="https://dergipark.org.tr/tr/pub/kilikya/rss/lastissue/tr"/>
-      <outline type="rss" text="Kitap Haber" title="Kitap Haber" xmlUrl="https://www.kitaphaber.com.tr/feed"/>
-      <outline type="rss" text="Görünüm Dergisi" title="Görünüm Dergisi" xmlUrl="https://dergipark.org.tr/tr/pub/gorunum/rss/lastissue/tr"/>
-      <outline type="rss" text="Gazete Sanat" title="Gazete Sanat" xmlUrl="https://www.gazetesanat.com/feed"/>
-      <outline type="rss" text="Hafta" title="Hafta" xmlUrl="https://www.hafta.com.tr/rss.xml"/>
-      <outline type="rss" text="İşin Detayı Kültür Sanat" title="İşin Detayı Kültür Sanat" xmlUrl="https://www.isindetayi.com/rss/kultur-sanat"/>
-      <outline type="rss" text="Manifold" title="Manifold" xmlUrl="https://manifold.press/rss"/>
-      <outline type="rss" text="Mesail" title="Mesail" xmlUrl="https://www.mesail.org/feed/"/>
-      <outline type="rss" text="Megabayt Kültür Sanat" title="Megabayt Kültür Sanat" xmlUrl="https://www.megabayt.com/rss/categorynews/kultur-sanat"/>
-      <outline type="rss" text="Mitoloji" title="Mitoloji" xmlUrl="https://mitoloji.org.tr/feed/"/>
-      <outline type="rss" text="Mürekkep Haber" title="Mürekkep Haber" xmlUrl="https://www.murekkephaber.com/rss.xml"/>
-      <outline type="rss" text="Nouvart" title="Nouvart" xmlUrl="https://www.nouvart.net/feed/"/>
-      <outline type="rss" text="Öncül" title="Öncül" xmlUrl="https://onculanalitikfelsefe.com/feed/"/>
-      <outline type="rss" text="Play Tuşu" title="Play Tuşu" xmlUrl="https://playtusu.com/feed/"/>
-      <outline type="rss" text="Rotka" title="Rotka" xmlUrl="https://www.rotka.org/feed/"/>
-      <outline type="rss" text="Sosyal Bilimler" title="Sosyal Bilimler" xmlUrl="https://www.sosyalbilimler.org/feed/"/>
-      <outline type="rss" text="Terrabayt" title="Terrabayt" xmlUrl="https://terrabayt.com/feed"/>
-      <outline type="rss" text="Vesaire" title="Vesaire" xmlUrl="https://vesaire.press/feed/"/>
-      <outline type="rss" text="Yedikıta" title="Yedikıta" xmlUrl="https://yedikita.com.tr/feed/"/>
+      <outline type="rss" text="10layn" title="10layn" xmlUrl="https://10layn.com/feed/" />
+      <outline type="rss" text="Artdog" title="Artdog" xmlUrl="https://artdogistanbul.com/feed/" />
+      <outline type="rss" text="Artkolik" title="Artkolik" xmlUrl="https://www.artkolik.net/feed" />
+      <outline type="rss" text="Argonotlar" title="Argonotlar" xmlUrl="https://argonotlar.com/feed/" />
+      <outline type="rss" text="Cafrande" title="Cafrande" xmlUrl="https://www.cafrande.org/feed/" />
+      <outline type="rss" text="Edebi Bülten" title="Edebi Bülten" xmlUrl="https://edebibulten.com/feed/" />
+      <outline type="rss" text="Edebiyat Burada" title="Edebiyat Burada" xmlUrl="https://edebiyatburada.com/feed/" />
+      <outline type="rss" text="Edebiyat Haber" title="Edebiyat Haber" xmlUrl="https://www.edebiyathaber.net/feed/" />
+      <outline type="rss" text="Fikir Turu" title="Fikir Turu" xmlUrl="https://fikirturu.com/feed/" />
+      <outline type="rss" text="Kilikya Dergisi" title="Kilikya Dergisi" xmlUrl="https://dergipark.org.tr/tr/pub/kilikya/rss/lastissue/tr" />
+      <outline type="rss" text="Kitap Haber" title="Kitap Haber" xmlUrl="https://www.kitaphaber.com.tr/feed" />
+      <outline type="rss" text="Görünüm Dergisi" title="Görünüm Dergisi" xmlUrl="https://dergipark.org.tr/tr/pub/gorunum/rss/lastissue/tr" />
+      <outline type="rss" text="Gazete Sanat" title="Gazete Sanat" xmlUrl="https://www.gazetesanat.com/feed" />
+      <outline type="rss" text="Hafta" title="Hafta" xmlUrl="https://www.hafta.com.tr/rss.xml" />
+      <outline type="rss" text="İşin Detayı Kültür Sanat" title="İşin Detayı Kültür Sanat" xmlUrl="https://www.isindetayi.com/rss/kultur-sanat" />
+      <outline type="rss" text="Mitoloji" title="Mitoloji" xmlUrl="https://mitoloji.org.tr/feed/" />
+      <outline type="rss" text="Mürekkep Haber" title="Mürekkep Haber" xmlUrl="https://www.murekkephaber.com/rss.xml" />
+      <outline type="rss" text="Nouvart" title="Nouvart" xmlUrl="https://www.nouvart.net/feed/" />
+      <outline type="rss" text="Öncül" title="Öncül" xmlUrl="https://onculanalitikfelsefe.com/feed/" />
+      <outline type="rss" text="Rotka" title="Rotka" xmlUrl="https://www.rotka.org/feed/" />
+      <outline type="rss" text="Terrabayt" title="Terrabayt" xmlUrl="https://terrabayt.com/feed" />
+      <outline type="rss" text="Vesaire" title="Vesaire" xmlUrl="https://vesaire.press/feed/" />
+      <outline type="rss" text="Yedikıta" title="Yedikıta" xmlUrl="https://yedikita.com.tr/feed/" />
     </outline>
     <outline text="baseFeed.sports" title="baseFeed.sports">
-      <outline type="rss" text="A Spor" title="A Spor" xmlUrl="https://www.aspor.com.tr/rss/anasayfa.xml"/>
-      <outline type="rss" text="AjansSpor" title="AjansSpor" xmlUrl="https://ajansspor.com/rss"/>
-      <outline type="rss" text="Fotomaç" title="Fotomaç" xmlUrl="https://www.fotomac.com.tr/rss/anasayfa.xml"/>
-      <outline type="rss" text="Fotomaç Son 24 Saat" title="Fotomaç Son 24 Saat" xmlUrl="https://www.fotomac.com.tr/rss/son24saat.xml"/>
-      <outline type="rss" text="Fotomaç Süper Lig" title="Fotomaç Süper Lig" xmlUrl="https://www.fotomac.com.tr/rss/SuperLig.xml"/>
-      <outline type="rss" text="Fotomaç Beşiktaş" title="Fotomaç Beşiktaş" xmlUrl="https://www.fotomac.com.tr/rss/Besiktas.xml"/>
-      <outline type="rss" text="Fotomaç Fenerbahçe" title="Fotomaç Fenerbahçe" xmlUrl="https://www.fotomac.com.tr/rss/Fenerbahce.xml"/>
-      <outline type="rss" text="Fotomaç Galatasaray" title="Fotomaç Galatasaray" xmlUrl="https://www.fotomac.com.tr/rss/Galatasaray.xml"/>
-      <outline type="rss" text="Fotomaç Trabzonspor" title="Fotomaç Trabzonspor" xmlUrl="https://www.fotomac.com.tr/rss/Trabzonspor.xml"/>
-      <outline type="rss" text="Fotomaç Bursaspor" title="Fotomaç Bursaspor" xmlUrl="https://www.fotomac.com.tr/rss/Bursaspor.xml"/>
-      <outline type="rss" text="Fotomaç Basketbol" title="Fotomaç Basketbol" xmlUrl="https://www.fotomac.com.tr/rss/Basketbol.xml"/>
-      <outline type="rss" text="Fotospor" title="Fotospor" xmlUrl="https://www.fotospor.com/feed/rss_sondakika.xml"/>
-      <outline type="rss" text="Megabayt Spor" title="Megabayt Spor" xmlUrl="https://www.megabayt.com/rss/categorynews/spor"/>
-      <outline type="rss" text="Kontraspor" title="Kontraspor" xmlUrl="https://kontraspor.com/rss"/>
-      <outline type="rss" text="NTV Spor Anasayfa" title="NTV Spor Anasayfa" xmlUrl="https://www.ntvspor.net/rss/anasayfa"/>
-      <outline type="rss" text="NTV Spor Basketbol" title="NTV Spor Basketbol" xmlUrl="https://www.ntvspor.net/rss/kategori/basketbol"/>
-      <outline type="rss" text="NTV Spor Diğer Sporlar" title="NTV Spor Diğer Sporlar" xmlUrl="https://www.ntvspor.net/rss/kategori/diger-sporlar"/>
-      <outline type="rss" text="NTV Spor Dünyadan Futbol" title="NTV Spor Dünyadan Futbol" xmlUrl="https://www.ntvspor.net/rss/kategori/dunyadan-futbol"/>
-      <outline type="rss" text="NTV Spor Futbol" title="NTV Spor Futbol" xmlUrl="https://www.ntvspor.net/rss/kategori/futbol"/>
-      <outline type="rss" text="NTV Spor Motor Sporları" title="NTV Spor Motor Sporları" xmlUrl="https://www.ntvspor.net/rss/kategori/motor-sporlari"/>
-      <outline type="rss" text="NTV Spor Olimpiyat" title="NTV Spor Olimpiyat" xmlUrl="https://www.ntvspor.net/rss/kategori/olimpiyat"/>
-      <outline type="rss" text="NTV Spor Tenis" title="NTV Spor Tenis" xmlUrl="https://www.ntvspor.net/rss/kategori/tenis"/>
-      <outline type="rss" text="NTV Spor Voleybol" title="NTV Spor Voleybol" xmlUrl="https://www.ntvspor.net/rss/kategori/voleybol"/>
-      <outline type="rss" text="Sözcü 2024 Paris Olimpiyatları" title="Sözcü 2024 Paris Olimpiyatları" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari"/>
-      <outline type="rss" text="Sözcü Basketbol" title="Sözcü Basketbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-basketbol"/>
-      <outline type="rss" text="Sözcü Diğer Sporlar" title="Sözcü Diğer Sporlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar"/>
-      <outline type="rss" text="Sözcü Dünyadan Futbol" title="Sözcü Dünyadan Futbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-dunyadan-spor"/>
-      <outline type="rss" text="Sözcü Futbol" title="Sözcü Futbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-futbol"/>
-      <outline type="rss" text="Sözcü Spor" title="Sözcü Spor" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-spor"/>
-      <outline type="rss" text="Sözcü Voleybol" title="Sözcü Voleybol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-voleybol"/>
+      <outline type="rss" text="A Spor" title="A Spor" xmlUrl="https://www.aspor.com.tr/rss/anasayfa.xml" />
+      <outline type="rss" text="AjansSpor" title="AjansSpor" xmlUrl="https://ajansspor.com/rss" />
+      <outline type="rss" text="Fotomaç" title="Fotomaç" xmlUrl="https://www.fotomac.com.tr/rss/anasayfa.xml" />
+      <outline type="rss" text="Fotomaç Son 24 Saat" title="Fotomaç Son 24 Saat" xmlUrl="https://www.fotomac.com.tr/rss/son24saat.xml" />
+      <outline type="rss" text="Fotomaç Süper Lig" title="Fotomaç Süper Lig" xmlUrl="https://www.fotomac.com.tr/rss/SuperLig.xml" />
+      <outline type="rss" text="Fotomaç Beşiktaş" title="Fotomaç Beşiktaş" xmlUrl="https://www.fotomac.com.tr/rss/Besiktas.xml" />
+      <outline type="rss" text="Fotomaç Fenerbahçe" title="Fotomaç Fenerbahçe" xmlUrl="https://www.fotomac.com.tr/rss/Fenerbahce.xml" />
+      <outline type="rss" text="Fotomaç Galatasaray" title="Fotomaç Galatasaray" xmlUrl="https://www.fotomac.com.tr/rss/Galatasaray.xml" />
+      <outline type="rss" text="Fotomaç Trabzonspor" title="Fotomaç Trabzonspor" xmlUrl="https://www.fotomac.com.tr/rss/Trabzonspor.xml" />
+      <outline type="rss" text="Fotomaç Bursaspor" title="Fotomaç Bursaspor" xmlUrl="https://www.fotomac.com.tr/rss/Bursaspor.xml" />
+      <outline type="rss" text="Fotomaç Basketbol" title="Fotomaç Basketbol" xmlUrl="https://www.fotomac.com.tr/rss/Basketbol.xml" />
+      <outline type="rss" text="Fotospor" title="Fotospor" xmlUrl="https://www.fotospor.com/feed/rss_sondakika.xml" />
+      <outline type="rss" text="Kontraspor" title="Kontraspor" xmlUrl="https://kontraspor.com/rss" />
+      <outline type="rss" text="NTV Spor Anasayfa" title="NTV Spor Anasayfa" xmlUrl="https://www.ntvspor.net/rss/anasayfa" />
+      <outline type="rss" text="NTV Spor Basketbol" title="NTV Spor Basketbol" xmlUrl="https://www.ntvspor.net/rss/kategori/basketbol" />
+      <outline type="rss" text="NTV Spor Diğer Sporlar" title="NTV Spor Diğer Sporlar" xmlUrl="https://www.ntvspor.net/rss/kategori/diger-sporlar" />
+      <outline type="rss" text="NTV Spor Dünyadan Futbol" title="NTV Spor Dünyadan Futbol" xmlUrl="https://www.ntvspor.net/rss/kategori/dunyadan-futbol" />
+      <outline type="rss" text="NTV Spor Futbol" title="NTV Spor Futbol" xmlUrl="https://www.ntvspor.net/rss/kategori/futbol" />
+      <outline type="rss" text="NTV Spor Motor Sporları" title="NTV Spor Motor Sporları" xmlUrl="https://www.ntvspor.net/rss/kategori/motor-sporlari" />
+      <outline type="rss" text="NTV Spor Olimpiyat" title="NTV Spor Olimpiyat" xmlUrl="https://www.ntvspor.net/rss/kategori/olimpiyat" />
+      <outline type="rss" text="NTV Spor Tenis" title="NTV Spor Tenis" xmlUrl="https://www.ntvspor.net/rss/kategori/tenis" />
+      <outline type="rss" text="NTV Spor Voleybol" title="NTV Spor Voleybol" xmlUrl="https://www.ntvspor.net/rss/kategori/voleybol" />
+      <outline type="rss" text="Sözcü 2024 Paris Olimpiyatları" title="Sözcü 2024 Paris Olimpiyatları" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari" />
+      <outline type="rss" text="Sözcü Basketbol" title="Sözcü Basketbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-basketbol" />
+      <outline type="rss" text="Sözcü Diğer Sporlar" title="Sözcü Diğer Sporlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar" />
+      <outline type="rss" text="Sözcü Dünyadan Futbol" title="Sözcü Dünyadan Futbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-dunyadan-spor" />
+      <outline type="rss" text="Sözcü Futbol" title="Sözcü Futbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-futbol" />
+      <outline type="rss" text="Sözcü Spor" title="Sözcü Spor" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-spor" />
+      <outline type="rss" text="Sözcü Voleybol" title="Sözcü Voleybol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-voleybol" />
     </outline>
     <outline text="baseFeed.news" title="baseFeed.news">
-      <outline type="rss" text="10Haber" title="10Haber" xmlUrl="https://10haber.net/feed/"/>
-      <outline type="rss" text="ABC Haber" title="ABC Haber" xmlUrl="https://abcgazetesi.com.tr/rss"/>
-      <outline type="rss" text="A Haber" title="A Haber" xmlUrl="https://www.ahaber.com.tr/rss/gundem.xml"/>
-      <outline type="rss" text="Açık Gazete" title="Açık Gazete" xmlUrl="https://www.acikgazete.com/feed/"/>
-      <outline type="rss" text="Akşam" title="Akşam" xmlUrl="https://www.aksam.com.tr/rss/rss.asp"/>
-      <outline type="rss" text="Al Ain Türkçe" title="Al Ain Türkçe" xmlUrl="https://tr.al-ain.com/feed"/>
-      <outline type="rss" text="Anadolu Ajansı" title="Anadolu Ajansı" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=guncel"/>
-      <outline type="rss" text="Agos" title="Agos" xmlUrl="https://www.agos.com.tr/rss"/>
-      <outline type="rss" text="Artı Gerçek" title="Artı Gerçek" xmlUrl="https://artigercek.com/service/rss.php"/>
-      <outline type="rss" text="Aydınlık" title="Aydınlık" xmlUrl="https://www.aydinlik.com.tr/feed"/>
-      <outline type="rss" text="Aykırı" title="Aykırı" xmlUrl="https://www.aykiri.com.tr/rss.xml"/>
-      <outline type="rss" text="Ayandon" title="Ayandon" xmlUrl="https://www.ayandon.com.tr/rss.xml"/>
-      <outline type="rss" text="BBC Türkçe" title="BBC Türkçe" xmlUrl="https://feeds.bbci.co.uk/turkce/rss.xml"/>
-      <outline type="rss" text="Bengütürk" title="Bengütürk" xmlUrl="https://www.benguturk.com/rss"/>
-      <outline type="rss" text="Beyaz Gazete" title="Beyaz Gazete" xmlUrl="https://beyazgazete.com/rss/guncel.xml"/>
-      <outline type="rss" text="BHA" title="BHA" xmlUrl="https://bha.net.tr/rss"/>
-      <outline type="rss" text="Bianet" title="Bianet" xmlUrl="https://bianet.org/biamag.rss"/>
-      <outline type="rss" text="Bir Gazete" title="Bir Gazete" xmlUrl="https://www.birgazete.com/feed"/>
-      <outline type="rss" text="BirGün" title="BirGün" xmlUrl="https://www.birgun.net/rss/home"/>
-      <outline type="rss" text="CNN Türk" title="CNN Türk" xmlUrl="https://www.cnnturk.com/feed/rss/all/news"/>
-      <outline type="rss" text="Cumhuriyet" title="Cumhuriyet" xmlUrl="https://www.cumhuriyet.com.tr/rss/son_dakika.xml"/>
-      <outline type="rss" text="CGTN Türk" title="CGTN Türk" xmlUrl="https://www.cgtnturk.com/rss"/>
-      <outline type="rss" text="Demokrat Haber" title="Demokrat Haber" xmlUrl="https://www.demokrathaber.org/rss"/>
-      <outline type="rss" text="Diken" title="Diken" xmlUrl="https://www.diken.com.tr/feed/"/>
-      <outline type="rss" text="Diriliş Postası" title="Diriliş Postası" xmlUrl="https://www.dirilispostasi.com/rss"/>
-      <outline type="rss" text="Diyanet Haber" title="Diyanet Haber" xmlUrl="https://www.diyanethaber.com.tr/rss"/>
-      <outline type="rss" text="Dijital Gaste" title="Dijital Gaste" xmlUrl="https://www.dijitalgaste.com/rss"/>
-      <outline type="rss" text="dikGAZETE" title="dikGAZETE" xmlUrl="https://www.dikgazete.com/xml/rss.xml"/>
-      <outline type="rss" text="Doğru Haber" title="Doğru Haber" xmlUrl="https://dogruhaber.com.tr/rss"/>
-      <outline type="rss" text="Dokuz8 Haber" title="Dokuz8 Haber" xmlUrl="https://www.dokuz8haber.net/rss"/>
-      <outline type="rss" text="Dünya" title="Dünya" xmlUrl="https://www.dunya.com/rss?dunya"/>
-      <outline type="rss" text="DW Haber" title="DW Haber" xmlUrl="https://rss.dw.com/rdf/rss-tur-all"/>
-      <outline type="rss" text="En Politik" title="En Politik" xmlUrl="https://www.enpolitik.com/rss.xml"/>
-      <outline type="rss" text="Elips Haber" title="Elips Haber" xmlUrl="https://www.elipshaber.com/rss"/>
-      <outline type="rss" text="Ekonomim" title="Ekonomim" xmlUrl="https://www.ekonomim.com/export/rss"/>
-      <outline type="rss" text="Ekol TV" title="Ekol TV" xmlUrl="https://www.ekoltv.com.tr/service/rss.php"/>
-      <outline type="rss" text="En Son Haber" title="En Son Haber" xmlUrl="https://www.ensonhaber.com/rss/ensonhaber.xml"/>
-      <outline type="rss" text="Evrensel" title="Evrensel" xmlUrl="https://www.evrensel.net/rss/haber.xml"/>
-      <outline type="rss" text="F5 Haber" title="F5 Haber" xmlUrl="https://www.f5haber.com/export/rss"/>
-      <outline type="rss" text="Fayn" title="Fayn" xmlUrl="https://www.fayn.press/rss/"/>
-      <outline type="rss" text="Gazete Duvar" title="Gazete Duvar" xmlUrl="https://www.gazeteduvar.com.tr/export/rss"/>
-      <outline type="rss" text="Gazete.net" title="Gazete.net" xmlUrl="https://gazete.net/rss"/>
-      <outline type="rss" text="Gazete Pencere" title="Gazete Pencere" xmlUrl="https://www.gazetepencere.com/service/rss.php"/>
-      <outline type="rss" text="Gerçek Gündem" title="Gerçek Gündem" xmlUrl="https://www.gercekgundem.com/rss"/>
-      <outline type="rss" text="GZT" title="GZT" xmlUrl="https://www.gzt.com/rss"/>
-      <outline type="rss" text="Haber 3" title="Haber 3" xmlUrl="https://www.haber3.com/rss"/>
-      <outline type="rss" text="Haber 7" title="Haber 7" xmlUrl="https://i12.haber7.net/sondakika/newsstand/latest.xml"/>
-      <outline type="rss" text="Haber" title="Haber" xmlUrl="https://www.haber.com/rss"/>
-      <outline type="rss" text="Haberler" title="Haberler" xmlUrl="https://rss.haberler.com/RssNew.aspx"/>
-      <outline type="rss" text="Haber Global" title="Haber Global" xmlUrl="https://haberglobal.com.tr/rss"/>
-      <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss"/>
-      <outline type="rss" text="Haberet" title="Haberet" xmlUrl="https://www.haberet.com/export/rss"/>
-      <outline type="rss" text="Halk TV" title="Halk TV" xmlUrl="https://halktv.com.tr/service/rss.php"/>
-      <outline type="rss" text="Haberport" title="Haberport" xmlUrl="https://www.haberport.com/rss/latest-posts"/>
-      <outline type="rss" text="Haberiniz" title="Haberiniz" xmlUrl="https://haberiniz.com.tr/feed/"/>
-      <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa"/>
-      <outline type="rss" text="İklim Haber" title="İklim Haber" xmlUrl="https://www.iklimhaber.org/feed/"/>
-      <outline type="rss" text="Independent" title="Independent" xmlUrl="https://www.indyturk.com/rss.xml"/>
-      <outline type="rss" text="İnternet Haber" title="İnternet Haber" xmlUrl="https://www.internethaber.com/rss"/>
-      <outline type="rss" text="İşin Detayı" title="İşin Detayı" xmlUrl="https://www.isindetayi.com/rss/gundem"/>
-      <outline type="rss" text="İşçi Haber" title="İşçi Haber" xmlUrl="https://www.iscihaber.net/rss/news"/>
-      <outline type="rss" text="İlke TV" title="İlke TV" xmlUrl="https://ilketv.com.tr/feed/"/>
-      <outline type="rss" text="Journo" title="Journo" xmlUrl="https://journo.com.tr/feed"/>
-      <outline type="rss" text="Karar" title="Karar" xmlUrl="https://www.karar.com/service/rss.php"/>
-      <outline type="rss" text="Kamudan Haber" title="Kamudan Haber" xmlUrl="https://www.kamudanhaber.net/rss"/>
-      <outline type="rss" text="Kısa Dalga" title="Kısa Dalga" xmlUrl="https://kisadalga.net/service/rss.php"/>
-      <outline type="rss" text="Korkusuz" title="Korkusuz" xmlUrl="https://www.korkusuz.com.tr/feeds/rss"/>
-      <outline type="rss" text="KRT TV" title="KRT TV" xmlUrl="https://www.krttv.com.tr/rss"/>
-      <outline type="rss" text="Medya Gazete" title="Medya Gazete" xmlUrl="https://www.medyagazete.com/rss/genel-0"/>
-      <outline type="rss" text="Megabayt Gündem" title="Megabayt Gündem" xmlUrl="https://www.megabayt.com/rss/categorynews/gundem"/>
-      <outline type="rss" text="Milli Gazete" title="Milli Gazete" xmlUrl="https://www.milligazete.com.tr/rss"/>
-      <outline type="rss" text="Mynet" title="Mynet" xmlUrl="https://www.mynet.com/haber/rss/sondakika"/>
-      <outline type="rss" text="Muhalif" title="Muhalif" xmlUrl="https://www.muhalif.com.tr/rss/genel-0"/>
-      <outline type="rss" text="NewsLab Turkey" title="NewsLab Turkey" xmlUrl="https://www.newslabturkey.org/feed/"/>
-      <outline type="rss" text="NTV" title="NTV" xmlUrl="https://www.ntv.com.tr/gundem.rss"/>
-      <outline type="rss" text="OdaTV" title="OdaTV" xmlUrl="https://www.odatv.com/rss.xml"/>
-      <outline type="rss" text="Radikal" title="Radikal" xmlUrl="https://www.radikal.com.tr/feed/"/>
-      <outline type="rss" text="Sabah" title="Sabah" xmlUrl="https://www.sabah.com.tr/rss/gundem.xml"/>
-      <outline type="rss" text="Serbestiyet" title="Serbestiyet" xmlUrl="https://serbestiyet.com/feed/"/>
-      <outline type="rss" text="Sözcü" title="Sözcü" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-sozcu"/>
-      <outline type="rss" text="Sözcü Astroloji" title="Sözcü Astroloji" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-astroloji"/>
-      <outline type="rss" text="Sözcü Bilim ve Teknoloji" title="Sözcü Bilim ve Teknoloji" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji"/>
-      <outline type="rss" text="Sözcü Eğitim" title="Sözcü Eğitim" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-egitim"/>
-      <outline type="rss" text="Sözcü Gündem" title="Sözcü Gündem" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-gundem"/>
-      <outline type="rss" text="Sözcü Günün İçinden" title="Sözcü Günün İçinden" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-gunun-icinden"/>
-      <outline type="rss" text="Sözcü Hayat" title="Sözcü Hayat" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-hayat"/>
-      <outline type="rss" text="Sözcü İlan" title="Sözcü İlan" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-ilan"/>
-      <outline type="rss" text="Sözcü Kültür Sanat" title="Sözcü Kültür Sanat" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat"/>
-      <outline type="rss" text="Sözcü Magazin" title="Sözcü Magazin" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-magazin"/>
-      <outline type="rss" text="Sözcü Otomotiv" title="Sözcü Otomotiv" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-otomotiv"/>
-      <outline type="rss" text="Sözcü Resmi İlanlar" title="Sözcü Resmi İlanlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-resmi-ilanlar"/>
-      <outline type="rss" text="Sözcü Sağlık" title="Sözcü Sağlık" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-saglik"/>
-      <outline type="rss" text="Sözcü Son Dakika" title="Sözcü Son Dakika" xmlUrl="https://www.sozcu.com.tr/feeds-son-dakika"/>
-      <outline type="rss" text="Sözcü Yazarlar" title="Sözcü Yazarlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-yazar"/>
-      <outline type="rss" text="Sözcü Yaşam" title="Sözcü Yaşam" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-yasam"/>
-      <outline type="rss" text="soL Haber" title="soL Haber" xmlUrl="https://haber.sol.org.tr/rss.xml"/>
-      <outline type="rss" text="Sputnik" title="Sputnik" xmlUrl="https://anlatilaninotesi.com.tr/export/rss2/archive/index.xml"/>
-      <outline type="rss" text="Star" title="Star" xmlUrl="https://www.star.com.tr/rss/rss.asp"/>
-      <outline type="rss" text="T24" title="T24" xmlUrl="https://t24.com.tr/rss"/>
-      <outline type="rss" text="Teyit" title="Teyit" xmlUrl="https://teyit.org/feed?lang=tr"/>
-      <outline type="rss" text="Tele1" title="Tele1" xmlUrl="https://www.tele1.com.tr/rss"/>
-      <outline type="rss" text="Tele2" title="Tele2" xmlUrl="https://www.tele2haber.com/rss"/>
-      <outline type="rss" text="Timeturk" title="Timeturk" xmlUrl="https://www.timeturk.com/rss/"/>
-      <outline type="rss" text="Türkiye Gazetesi" title="Türkiye Gazetesi" xmlUrl="https://www.turkiyegazetesi.com.tr/feed"/>
-      <outline type="rss" text="Türkgün" title="Türkgün" xmlUrl="https://www.turkgun.com/rss/news"/>
-      <outline type="rss" text="TRT Haber" title="TRT Haber" xmlUrl="https://www.trthaber.com/sondakika.rss"/>
-      <outline type="rss" text="TGRT Haber" title="TGRT Haber" xmlUrl="https://www.tgrthaber.com/rss/manset"/>
-      <outline type="rss" text="Ulusal Kanal" title="Ulusal Kanal" xmlUrl="https://www.ulusal.com.tr/rss"/>
-      <outline type="rss" text="Ulusal Post" title="Ulusal Post" xmlUrl="https://www.ulusalpost.com/service/rss.php"/>
-      <outline type="rss" text="Uyan32" title="Uyan32" xmlUrl="https://www.uyan32.com/rss"/>
-      <outline type="rss" text="Veryansın TV" title="Veryansın TV" xmlUrl="https://www.veryansintv.com/feed"/>
-      <outline type="rss" text="Yeni Akit" title="Yeni Akit" xmlUrl="https://www.yeniakit.com.tr/rss/haber/gundem"/>
-      <outline type="rss" text="Yeni Asır Gazetesi" title="Yeni Asır Gazetesi" xmlUrl="https://www.yeniasir.com.tr/rss/anasayfa.xml"/>
-      <outline type="rss" text="Yeniçağ Gazetesi" title="Yeniçağ Gazetesi" xmlUrl="https://www.yenicaggazetesi.com.tr/service/rss.php"/>
-      <outline type="rss" text="Yeni Şafak" title="Yeni Şafak" xmlUrl="https://www.yenisafak.com/rss?xml=gundem"/>
-      <outline type="rss" text="Yeni Yaşam Gazetesi" title="Yeni Yaşam Gazetesi" xmlUrl="https://yeniyasamgazetesi9.com/feed/"/>
-      <outline type="rss" text="Yeşil Gazete" title="Yeşil Gazete" xmlUrl="https://yesilgazete.org/feed/"/>
-      <outline type="rss" text="Yurt Gazetesi" title="Yurt Gazetesi" xmlUrl="https://www.yurtgazetesi.com.tr/service/rss.php"/>
-      <outline type="rss" text="Yurtsever" title="Yurtsever" xmlUrl="https://yurtsever.org.tr/feed"/>
+      <outline type="rss" text="10Haber" title="10Haber" xmlUrl="https://10haber.net/feed/" />
+      <outline type="rss" text="A Haber" title="A Haber" xmlUrl="https://www.ahaber.com.tr/rss/gundem.xml" />
+      <outline type="rss" text="Açık Gazete" title="Açık Gazete" xmlUrl="https://www.acikgazete.com/feed/" />
+      <outline type="rss" text="Akşam" title="Akşam" xmlUrl="https://www.aksam.com.tr/rss/rss.asp" />
+      <outline type="rss" text="Al Ain Türkçe" title="Al Ain Türkçe" xmlUrl="https://tr.al-ain.com/feed" />
+      <outline type="rss" text="Anadolu Ajansı" title="Anadolu Ajansı" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=guncel" />
+      <outline type="rss" text="Agos" title="Agos" xmlUrl="https://www.agos.com.tr/rss" />
+      <outline type="rss" text="Artı Gerçek" title="Artı Gerçek" xmlUrl="https://artigercek.com/service/rss.php" />
+      <outline type="rss" text="Aydınlık" title="Aydınlık" xmlUrl="https://www.aydinlik.com.tr/feed" />
+      <outline type="rss" text="Aykırı" title="Aykırı" xmlUrl="https://www.aykiri.com.tr/rss.xml" />
+      <outline type="rss" text="Ayandon" title="Ayandon" xmlUrl="https://www.ayandon.com.tr/rss.xml" />
+      <outline type="rss" text="BBC Türkçe" title="BBC Türkçe" xmlUrl="https://feeds.bbci.co.uk/turkce/rss.xml" />
+      <outline type="rss" text="Bengütürk" title="Bengütürk" xmlUrl="https://www.benguturk.com/rss" />
+      <outline type="rss" text="Beyaz Gazete" title="Beyaz Gazete" xmlUrl="https://beyazgazete.com/rss/guncel.xml" />
+      <outline type="rss" text="BHA" title="BHA" xmlUrl="https://bha.net.tr/rss" />
+      <outline type="rss" text="Bianet" title="Bianet" xmlUrl="https://bianet.org/biamag.rss" />
+      <outline type="rss" text="Bir Gazete" title="Bir Gazete" xmlUrl="https://www.birgazete.com/feed" />
+      <outline type="rss" text="BirGün" title="BirGün" xmlUrl="https://www.birgun.net/rss/home" />
+      <outline type="rss" text="CNN Türk" title="CNN Türk" xmlUrl="https://www.cnnturk.com/feed/rss/all/news" />
+      <outline type="rss" text="Cumhuriyet" title="Cumhuriyet" xmlUrl="https://www.cumhuriyet.com.tr/rss/son_dakika.xml" />
+      <outline type="rss" text="CGTN Türk" title="CGTN Türk" xmlUrl="https://www.cgtnturk.com/rss" />
+      <outline type="rss" text="Diken" title="Diken" xmlUrl="https://www.diken.com.tr/feed/" />
+      <outline type="rss" text="Diriliş Postası" title="Diriliş Postası" xmlUrl="https://www.dirilispostasi.com/rss" />
+      <outline type="rss" text="Diyanet Haber" title="Diyanet Haber" xmlUrl="https://www.diyanethaber.com.tr/rss" />
+      <outline type="rss" text="Dijital Gaste" title="Dijital Gaste" xmlUrl="https://www.dijitalgaste.com/rss" />
+      <outline type="rss" text="dikGAZETE" title="dikGAZETE" xmlUrl="https://www.dikgazete.com/xml/rss.xml" />
+      <outline type="rss" text="Doğru Haber" title="Doğru Haber" xmlUrl="https://dogruhaber.com.tr/rss" />
+      <outline type="rss" text="Dokuz8 Haber" title="Dokuz8 Haber" xmlUrl="https://www.dokuz8haber.net/rss" />
+      <outline type="rss" text="Dünya" title="Dünya" xmlUrl="https://www.dunya.com/rss?dunya" />
+      <outline type="rss" text="DW Haber" title="DW Haber" xmlUrl="https://rss.dw.com/rdf/rss-tur-all" />
+      <outline type="rss" text="En Politik" title="En Politik" xmlUrl="https://www.enpolitik.com/rss.xml" />
+      <outline type="rss" text="Elips Haber" title="Elips Haber" xmlUrl="https://www.elipshaber.com/rss" />
+      <outline type="rss" text="Ekonomim" title="Ekonomim" xmlUrl="https://www.ekonomim.com/export/rss" />
+      <outline type="rss" text="En Son Haber" title="En Son Haber" xmlUrl="https://www.ensonhaber.com/rss/ensonhaber.xml" />
+      <outline type="rss" text="F5 Haber" title="F5 Haber" xmlUrl="https://www.f5haber.com/export/rss" />
+      <outline type="rss" text="Fayn" title="Fayn" xmlUrl="https://www.fayn.press/rss/" />
+      <outline type="rss" text="Gazete Pencere" title="Gazete Pencere" xmlUrl="https://www.gazetepencere.com/service/rss.php" />
+      <outline type="rss" text="Gerçek Gündem" title="Gerçek Gündem" xmlUrl="https://www.gercekgundem.com/rss" />
+      <outline type="rss" text="GZT" title="GZT" xmlUrl="https://www.gzt.com/rss" />
+      <outline type="rss" text="Haber 3" title="Haber 3" xmlUrl="https://www.haber3.com/rss" />
+      <outline type="rss" text="Haber 7" title="Haber 7" xmlUrl="https://i12.haber7.net/sondakika/newsstand/latest.xml" />
+      <outline type="rss" text="Haber" title="Haber" xmlUrl="https://www.haber.com/rss" />
+      <outline type="rss" text="Haberler" title="Haberler" xmlUrl="https://rss.haberler.com/RssNew.aspx" />
+      <outline type="rss" text="Haber Global" title="Haber Global" xmlUrl="https://haberglobal.com.tr/rss" />
+      <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss" />
+      <outline type="rss" text="Haberet" title="Haberet" xmlUrl="https://www.haberet.com/export/rss" />
+      <outline type="rss" text="Halk TV" title="Halk TV" xmlUrl="https://halktv.com.tr/service/rss.php" />
+      <outline type="rss" text="Haberport" title="Haberport" xmlUrl="https://www.haberport.com/rss/latest-posts" />
+      <outline type="rss" text="Haberiniz" title="Haberiniz" xmlUrl="https://haberiniz.com.tr/feed/" />
+      <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa" />
+      <outline type="rss" text="İklim Haber" title="İklim Haber" xmlUrl="https://www.iklimhaber.org/feed/" />
+      <outline type="rss" text="Independent" title="Independent" xmlUrl="https://www.indyturk.com/rss.xml" />
+      <outline type="rss" text="İnternet Haber" title="İnternet Haber" xmlUrl="https://www.internethaber.com/rss" />
+      <outline type="rss" text="İşin Detayı" title="İşin Detayı" xmlUrl="https://www.isindetayi.com/rss/gundem" />
+      <outline type="rss" text="İşçi Haber" title="İşçi Haber" xmlUrl="https://www.iscihaber.net/rss/news" />
+      <outline type="rss" text="İlke TV" title="İlke TV" xmlUrl="https://ilketv.com.tr/feed/" />
+      <outline type="rss" text="Journo" title="Journo" xmlUrl="https://journo.com.tr/feed" />
+      <outline type="rss" text="Karar" title="Karar" xmlUrl="https://www.karar.com/service/rss.php" />
+      <outline type="rss" text="Kamudan Haber" title="Kamudan Haber" xmlUrl="https://www.kamudanhaber.net/rss" />
+      <outline type="rss" text="Kısa Dalga" title="Kısa Dalga" xmlUrl="https://kisadalga.net/service/rss.php" />
+      <outline type="rss" text="KRT TV" title="KRT TV" xmlUrl="https://www.krttv.com.tr/rss" />
+      <outline type="rss" text="Medya Gazete" title="Medya Gazete" xmlUrl="https://www.medyagazete.com/rss/genel-0" />
+      <outline type="rss" text="Mynet" title="Mynet" xmlUrl="https://www.mynet.com/haber/rss/sondakika" />
+      <outline type="rss" text="NewsLab Turkey" title="NewsLab Turkey" xmlUrl="https://www.newslabturkey.org/feed/" />
+      <outline type="rss" text="NTV" title="NTV" xmlUrl="https://www.ntv.com.tr/gundem.rss" />
+      <outline type="rss" text="OdaTV" title="OdaTV" xmlUrl="https://www.odatv.com/rss.xml" />
+      <outline type="rss" text="Radikal" title="Radikal" xmlUrl="https://www.radikal.com.tr/feed/" />
+      <outline type="rss" text="Sabah" title="Sabah" xmlUrl="https://www.sabah.com.tr/rss/gundem.xml" />
+      <outline type="rss" text="Serbestiyet" title="Serbestiyet" xmlUrl="https://serbestiyet.com/feed/" />
+      <outline type="rss" text="Sözcü" title="Sözcü" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-sozcu" />
+      <outline type="rss" text="Sözcü Astroloji" title="Sözcü Astroloji" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-astroloji" />
+      <outline type="rss" text="Sözcü Bilim ve Teknoloji" title="Sözcü Bilim ve Teknoloji" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-bilim-teknoloji" />
+      <outline type="rss" text="Sözcü Eğitim" title="Sözcü Eğitim" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-egitim" />
+      <outline type="rss" text="Sözcü Gündem" title="Sözcü Gündem" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-gundem" />
+      <outline type="rss" text="Sözcü Günün İçinden" title="Sözcü Günün İçinden" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-gunun-icinden" />
+      <outline type="rss" text="Sözcü Hayat" title="Sözcü Hayat" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-hayat" />
+      <outline type="rss" text="Sözcü Kültür Sanat" title="Sözcü Kültür Sanat" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-kultur-sanat" />
+      <outline type="rss" text="Sözcü Magazin" title="Sözcü Magazin" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-magazin" />
+      <outline type="rss" text="Sözcü Otomotiv" title="Sözcü Otomotiv" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-otomotiv" />
+      <outline type="rss" text="Sözcü Resmi İlanlar" title="Sözcü Resmi İlanlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-resmi-ilanlar" />
+      <outline type="rss" text="Sözcü Sağlık" title="Sözcü Sağlık" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-saglik" />
+      <outline type="rss" text="Sözcü Son Dakika" title="Sözcü Son Dakika" xmlUrl="https://www.sozcu.com.tr/feeds-son-dakika" />
+      <outline type="rss" text="Sözcü Yazarlar" title="Sözcü Yazarlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-yazar" />
+      <outline type="rss" text="Sözcü Yaşam" title="Sözcü Yaşam" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-yasam" />
+      <outline type="rss" text="soL Haber" title="soL Haber" xmlUrl="https://haber.sol.org.tr/rss.xml" />
+      <outline type="rss" text="Sputnik" title="Sputnik" xmlUrl="https://anlatilaninotesi.com.tr/export/rss2/archive/index.xml" />
+      <outline type="rss" text="Star" title="Star" xmlUrl="https://www.star.com.tr/rss/rss.asp" />
+      <outline type="rss" text="T24" title="T24" xmlUrl="https://t24.com.tr/rss" />
+      <outline type="rss" text="Teyit" title="Teyit" xmlUrl="https://teyit.org/feed?lang=tr" />
+      <outline type="rss" text="Tele1" title="Tele1" xmlUrl="https://www.tele1.com.tr/rss" />
+      <outline type="rss" text="Tele2" title="Tele2" xmlUrl="https://www.tele2haber.com/rss" />
+      <outline type="rss" text="Timeturk" title="Timeturk" xmlUrl="https://www.timeturk.com/rss/" />
+      <outline type="rss" text="Türkiye Gazetesi" title="Türkiye Gazetesi" xmlUrl="https://www.turkiyegazetesi.com.tr/feed" />
+      <outline type="rss" text="Türkgün" title="Türkgün" xmlUrl="https://www.turkgun.com/rss/news" />
+      <outline type="rss" text="TRT Haber" title="TRT Haber" xmlUrl="https://www.trthaber.com/sondakika.rss" />
+      <outline type="rss" text="TGRT Haber" title="TGRT Haber" xmlUrl="https://www.tgrthaber.com/rss/manset" />
+      <outline type="rss" text="Ulusal Kanal" title="Ulusal Kanal" xmlUrl="https://www.ulusal.com.tr/rss" />
+      <outline type="rss" text="Ulusal Post" title="Ulusal Post" xmlUrl="https://www.ulusalpost.com/service/rss.php" />
+      <outline type="rss" text="Yeni Akit" title="Yeni Akit" xmlUrl="https://www.yeniakit.com.tr/rss/haber/gundem" />
+      <outline type="rss" text="Yeni Asır Gazetesi" title="Yeni Asır Gazetesi" xmlUrl="https://www.yeniasir.com.tr/rss/anasayfa.xml" />
+      <outline type="rss" text="Yeniçağ Gazetesi" title="Yeniçağ Gazetesi" xmlUrl="https://www.yenicaggazetesi.com.tr/service/rss.php" />
+      <outline type="rss" text="Yeni Şafak" title="Yeni Şafak" xmlUrl="https://www.yenisafak.com/rss?xml=gundem" />
+      <outline type="rss" text="Yeni Yaşam Gazetesi" title="Yeni Yaşam Gazetesi" xmlUrl="https://yeniyasamgazetesi9.com/feed/" />
+      <outline type="rss" text="Yurtsever" title="Yurtsever" xmlUrl="https://yurtsever.org.tr/feed" />
     </outline>
     <outline text="baseFeed.defense" title="baseFeed.defense">
-      <outline type="rss" text="C4 Defence" title="C4 Defence" xmlUrl="https://www.c4defence.com/feed/"/>
-      <outline type="rss" text="DefenceTurk" title="DefenceTurk" xmlUrl="https://www.defenceturk.net/feed"/>
-      <outline type="rss" text="Mavi Savunma" title="Mavi Savunma" xmlUrl="https://mavisavunma.com/feed/"/>
-      <outline type="rss" text="Sanayi Gazetesi" title="Sanayi Gazetesi" xmlUrl="https://sanayigazetesi.com.tr/kategori/savunma-haberleri/feed/"/>
-      <outline type="rss" text="Savunma Sanayi Gazetesi" title="Savunma Sanayi Gazetesi" xmlUrl="https://savunmasanayigazetesi.com.tr/feed/"/>
-      <outline type="rss" text="SavunmaSanayiST" title="SavunmaSanayiST" xmlUrl="https://www.savunmasanayist.com/feed/"/>
-      <outline type="rss" text="SavunmaTR" title="SavunmaTR" xmlUrl="https://www.savunmatr.com/feed/"/>
+      <outline type="rss" text="DefenceTurk" title="DefenceTurk" xmlUrl="https://www.defenceturk.net/feed" />
+      <outline type="rss" text="Mavi Savunma" title="Mavi Savunma" xmlUrl="https://mavisavunma.com/feed/" />
+      <outline type="rss" text="Sanayi Gazetesi" title="Sanayi Gazetesi" xmlUrl="https://sanayigazetesi.com.tr/kategori/savunma-haberleri/feed/" />
+      <outline type="rss" text="Savunma Sanayi Gazetesi" title="Savunma Sanayi Gazetesi" xmlUrl="https://savunmasanayigazetesi.com.tr/feed/" />
+      <outline type="rss" text="SavunmaTR" title="SavunmaTR" xmlUrl="https://www.savunmatr.com/feed/" />
     </outline>
     <outline text="baseFeed.economy" title="baseFeed.economy">
-      <outline type="rss" text="Bloomberg HT" title="Bloomberg HT" xmlUrl="https://www.bloomberght.com/rss"/>
-      <outline type="rss" text="Bigpara" title="Bigpara" xmlUrl="https://bigpara.hurriyet.com.tr/rss/"/>
-      <outline type="rss" text="CNBC-e" title="CNBC-e" xmlUrl="https://www.cnbce.com/rss"/>
-      <outline type="rss" text="Döviz" title="Döviz" xmlUrl="https://www.doviz.com/news/rss"/>
-      <outline type="rss" text="Ekonomi Gazetesi" title="Ekonomi Gazetesi" xmlUrl="https://www.ekonomigazetesi.com/rss.xml"/>
-      <outline type="rss" text="Forbes Türkiye" title="Forbes Türkiye" xmlUrl="https://www.forbes.com.tr/rss"/>
-      <outline type="rss" text="Foreks" title="Foreks" xmlUrl="https://www.foreks.com/rss/"/>
-      <outline type="rss" text="Investing Genel" title="Investing Genel" xmlUrl="https://tr.investing.com/rss/market_overview.rss"/>
-      <outline type="rss" text="Investing Kripto" title="Investing Kripto" xmlUrl="https://tr.investing.com/rss/302.rss"/>
-      <outline type="rss" text="Investing Döviz" title="Investing Döviz" xmlUrl="https://tr.investing.com/rss/forex.rss"/>
-      <outline type="rss" text="Investing Hisse Senedi" title="Investing Hisse Senedi" xmlUrl="https://tr.investing.com/rss/stock.rss"/>
-      <outline type="rss" text="Investing Emtia" title="Investing Emtia" xmlUrl="https://tr.investing.com/rss/commodities.rss"/>
-      <outline type="rss" text="Investing Tahvil" title="Investing Tahvil" xmlUrl="https://tr.investing.com/rss/bonds.rss"/>
-      <outline type="rss" text="Investing Haberler" title="Investing Haberler" xmlUrl="https://tr.investing.com/rss/news.rss"/>
-      <outline type="rss" text="Megabayt Ekonomi" title="Megabayt Ekonomi" xmlUrl="https://www.megabayt.com/rss/categorynews/ekonomi"/>
-      <outline type="rss" text="Megabayt Kripto Para" title="Megabayt Kripto Para" xmlUrl="https://www.megabayt.com/rss/categorynews/kripto-para"/>
-      <outline type="rss" text="Sözcü Borsa" title="Sözcü Borsa" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-borsa"/>
-      <outline type="rss" text="Sözcü Ekonomi" title="Sözcü Ekonomi" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-ekonomi"/>
-      <outline type="rss" text="Sözcü Emlak" title="Sözcü Emlak" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-emlak"/>
-      <outline type="rss" text="Sözcü Emtia" title="Sözcü Emtia" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-emtia"/>
-      <outline type="rss" text="Sözcü Finans" title="Sözcü Finans" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-finans"/>
-      <outline type="rss" text="Sözcü Kripto" title="Sözcü Kripto" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-kripto"/>
+      <outline type="rss" text="Bloomberg HT" title="Bloomberg HT" xmlUrl="https://www.bloomberght.com/rss" />
+      <outline type="rss" text="Bigpara" title="Bigpara" xmlUrl="https://bigpara.hurriyet.com.tr/rss/" />
+      <outline type="rss" text="CNBC-e" title="CNBC-e" xmlUrl="https://www.cnbce.com/rss" />
+      <outline type="rss" text="Ekonomi Gazetesi" title="Ekonomi Gazetesi" xmlUrl="https://www.ekonomigazetesi.com/rss.xml" />
+      <outline type="rss" text="Forbes Türkiye" title="Forbes Türkiye" xmlUrl="https://www.forbes.com.tr/rss" />
+      <outline type="rss" text="Foreks" title="Foreks" xmlUrl="https://www.foreks.com/rss/" />
+      <outline type="rss" text="Investing Genel" title="Investing Genel" xmlUrl="https://tr.investing.com/rss/market_overview.rss" />
+      <outline type="rss" text="Investing Kripto" title="Investing Kripto" xmlUrl="https://tr.investing.com/rss/302.rss" />
+      <outline type="rss" text="Investing Döviz" title="Investing Döviz" xmlUrl="https://tr.investing.com/rss/forex.rss" />
+      <outline type="rss" text="Investing Hisse Senedi" title="Investing Hisse Senedi" xmlUrl="https://tr.investing.com/rss/stock.rss" />
+      <outline type="rss" text="Investing Emtia" title="Investing Emtia" xmlUrl="https://tr.investing.com/rss/commodities.rss" />
+      <outline type="rss" text="Investing Tahvil" title="Investing Tahvil" xmlUrl="https://tr.investing.com/rss/bonds.rss" />
+      <outline type="rss" text="Investing Haberler" title="Investing Haberler" xmlUrl="https://tr.investing.com/rss/news.rss" />
+      <outline type="rss" text="Sözcü Borsa" title="Sözcü Borsa" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-borsa" />
+      <outline type="rss" text="Sözcü Ekonomi" title="Sözcü Ekonomi" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-ekonomi" />
+      <outline type="rss" text="Sözcü Emlak" title="Sözcü Emlak" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-emlak" />
+      <outline type="rss" text="Sözcü Emtia" title="Sözcü Emtia" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-emtia" />
+      <outline type="rss" text="Sözcü Finans" title="Sözcü Finans" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-finans" />
+      <outline type="rss" text="Sözcü Kripto" title="Sözcü Kripto" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-kripto" />
     </outline>
     <outline text="baseFeed.business" title="baseFeed.business">
-      <outline type="rss" text="İşin Detayı" title="İşin Detayı" xmlUrl="https://www.isindetayi.com/rss"/>
-      <outline type="rss" text="İşin Detayı Borsa" title="İşin Detayı Borsa" xmlUrl="https://www.isindetayi.com/rss/borsa"/>
-      <outline type="rss" text="İşin Detayı Ekonomi" title="İşin Detayı Ekonomi" xmlUrl="https://www.isindetayi.com/rss/ekonomi"/>
-      <outline type="rss" text="İşin Detayı Finans" title="İşin Detayı Finans" xmlUrl="https://www.isindetayi.com/rss/finans"/>
-      <outline type="rss" text="İşin Detayı Gayrimenkul" title="İşin Detayı Gayrimenkul" xmlUrl="https://www.isindetayi.com/rss/gayrimenkul"/>
-      <outline type="rss" text="İşin Detayı İş Dünyası" title="İşin Detayı İş Dünyası" xmlUrl="https://www.isindetayi.com/rss/is-dunyasi"/>
-      <outline type="rss" text="İşin Detayı Lojistik" title="İşin Detayı Lojistik" xmlUrl="https://www.isindetayi.com/rss/lojistik"/>
-      <outline type="rss" text="İşin Detayı Şirket Haberleri" title="İşin Detayı Şirket Haberleri" xmlUrl="https://www.isindetayi.com/rss/sirket-haberleri"/>
-      <outline type="rss" text="Megabayt Şirket Haberleri" title="Megabayt Şirket Haberleri" xmlUrl="https://www.megabayt.com/rss/categorynews/sirket-haberleri"/>
-      <outline type="rss" text="Midas" title="Midas" xmlUrl="https://www.getmidas.com/feed/"/>
+      <outline type="rss" text="İşin Detayı" title="İşin Detayı" xmlUrl="https://www.isindetayi.com/rss" />
+      <outline type="rss" text="İşin Detayı Borsa" title="İşin Detayı Borsa" xmlUrl="https://www.isindetayi.com/rss/borsa" />
+      <outline type="rss" text="İşin Detayı Ekonomi" title="İşin Detayı Ekonomi" xmlUrl="https://www.isindetayi.com/rss/ekonomi" />
+      <outline type="rss" text="İşin Detayı Finans" title="İşin Detayı Finans" xmlUrl="https://www.isindetayi.com/rss/finans" />
+      <outline type="rss" text="İşin Detayı Gayrimenkul" title="İşin Detayı Gayrimenkul" xmlUrl="https://www.isindetayi.com/rss/gayrimenkul" />
+      <outline type="rss" text="İşin Detayı İş Dünyası" title="İşin Detayı İş Dünyası" xmlUrl="https://www.isindetayi.com/rss/is-dunyasi" />
+      <outline type="rss" text="İşin Detayı Lojistik" title="İşin Detayı Lojistik" xmlUrl="https://www.isindetayi.com/rss/lojistik" />
+      <outline type="rss" text="İşin Detayı Şirket Haberleri" title="İşin Detayı Şirket Haberleri" xmlUrl="https://www.isindetayi.com/rss/sirket-haberleri" />
+      <outline type="rss" text="Midas" title="Midas" xmlUrl="https://www.getmidas.com/feed/" />
     </outline>
     <outline text="baseFeed.lifestyle" title="baseFeed.lifestyle">
-      <outline type="rss" text="Anne Kaz" title="Anne Kaz" xmlUrl="https://www.annekaz.com/feed"/>
-      <outline type="rss" text="İşin Detayı Gastronomi" title="İşin Detayı Gastronomi" xmlUrl="https://www.isindetayi.com/rss/gastronomi"/>
-      <outline type="rss" text="İşin Detayı Moda" title="İşin Detayı Moda" xmlUrl="https://www.isindetayi.com/rss/moda"/>
-      <outline type="rss" text="İşin Detayı Sağlık" title="İşin Detayı Sağlık" xmlUrl="https://www.isindetayi.com/rss/saglik"/>
-      <outline type="rss" text="İşin Detayı Turizm" title="İşin Detayı Turizm" xmlUrl="https://www.isindetayi.com/rss/turizm"/>
-      <outline type="rss" text="İşin Detayı Yaşam" title="İşin Detayı Yaşam" xmlUrl="https://www.isindetayi.com/rss/yasam"/>
-      <outline type="rss" text="Istanbul Life" title="Istanbul Life" xmlUrl="https://istanbullife.com.tr/feed/"/>
-      <outline type="rss" text="Live To Bloom" title="Live To Bloom" xmlUrl="https://livetobloom.com/feed/"/>
-      <outline type="rss" text="Martı Dergisi" title="Martı Dergisi" xmlUrl="https://www.martidergisi.com/feed/"/>
-      <outline type="rss" text="Megabayt Aksesuar" title="Megabayt Aksesuar" xmlUrl="https://www.megabayt.com/rss/categorynews/aksesuar"/>
-      <outline type="rss" text="Megabayt Eğitim" title="Megabayt Eğitim" xmlUrl="https://www.megabayt.com/rss/categorynews/egitim"/>
-      <outline type="rss" text="Megabayt İnceleme" title="Megabayt İnceleme" xmlUrl="https://www.megabayt.com/rss/categorynews/inceleme"/>
-      <outline type="rss" text="Megabayt Magazin" title="Megabayt Magazin" xmlUrl="https://www.megabayt.com/rss/categorynews/magazin"/>
-      <outline type="rss" text="Megabayt Otomobil" title="Megabayt Otomobil" xmlUrl="https://www.megabayt.com/rss/categorynews/otomobil"/>
-      <outline type="rss" text="Megabayt Popüler Haberler" title="Megabayt Popüler Haberler" xmlUrl="https://www.megabayt.com/rss/categorynews/populer-haberler"/>
-      <outline type="rss" text="Megabayt Sağlık" title="Megabayt Sağlık" xmlUrl="https://www.megabayt.com/rss/categorynews/saglik"/>
-      <outline type="rss" text="Megabayt Yaşam" title="Megabayt Yaşam" xmlUrl="https://www.megabayt.com/rss/categorynews/yasam"/>
-      <outline type="rss" text="Medium Türkçe Yayın" title="Medium Türkçe Yayın" xmlUrl="https://medium.com/feed/t%C3%BCrkiye"/>
-      <outline type="rss" text="Medium Türkiye Yayını" title="Medium Türkiye Yayını" xmlUrl="https://mediumturkiye.com/feed"/>
-      <outline type="rss" text="Uplifers" title="Uplifers" xmlUrl="https://www.uplifers.com/feed/"/>
-      <outline type="rss" text="PlumeMag" title="PlumeMag" xmlUrl="https://www.plumemag.com/feed/"/>
+      <outline type="rss" text="Anne Kaz" title="Anne Kaz" xmlUrl="https://www.annekaz.com/feed" />
+      <outline type="rss" text="İşin Detayı Gastronomi" title="İşin Detayı Gastronomi" xmlUrl="https://www.isindetayi.com/rss/gastronomi" />
+      <outline type="rss" text="İşin Detayı Moda" title="İşin Detayı Moda" xmlUrl="https://www.isindetayi.com/rss/moda" />
+      <outline type="rss" text="İşin Detayı Sağlık" title="İşin Detayı Sağlık" xmlUrl="https://www.isindetayi.com/rss/saglik" />
+      <outline type="rss" text="İşin Detayı Turizm" title="İşin Detayı Turizm" xmlUrl="https://www.isindetayi.com/rss/turizm" />
+      <outline type="rss" text="İşin Detayı Yaşam" title="İşin Detayı Yaşam" xmlUrl="https://www.isindetayi.com/rss/yasam" />
+      <outline type="rss" text="Istanbul Life" title="Istanbul Life" xmlUrl="https://istanbullife.com.tr/feed/" />
+      <outline type="rss" text="Live To Bloom" title="Live To Bloom" xmlUrl="https://livetobloom.com/feed/" />
+      <outline type="rss" text="Martı Dergisi" title="Martı Dergisi" xmlUrl="https://www.martidergisi.com/feed/" />
+      <outline type="rss" text="Medium Türkçe Yayın" title="Medium Türkçe Yayın" xmlUrl="https://medium.com/feed/t%C3%BCrkiye" />
+      <outline type="rss" text="Medium Türkiye Yayını" title="Medium Türkiye Yayını" xmlUrl="https://mediumturkiye.com/feed" />
+      <outline type="rss" text="Uplifers" title="Uplifers" xmlUrl="https://www.uplifers.com/feed/" />
+      <outline type="rss" text="PlumeMag" title="PlumeMag" xmlUrl="https://www.plumemag.com/feed/" />
     </outline>
     </outline>
      <outline language="en">
       <outline text="baseFeed.science" title="baseFeed.science">
-        <outline type="rss" text="ScienceDaily - Top Science" title="ScienceDaily - Top Science" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml"/>
-        <outline type="rss" text="ScienceDaily - All News" title="ScienceDaily - All News" xmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
-        <outline type="rss" text="IFLScience" title="IFLScience" xmlUrl="https://iflscience.com/rss"/>
-      </outline>
+        <outline type="rss" text="ScienceDaily - All News" title="ScienceDaily - All News" xmlUrl="https://www.sciencedaily.com/rss/all.xml" />
+        </outline>
       <outline text="baseFeed.technology" title="baseFeed.technology">
-        <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/"/>
-        <outline type="rss" text="WIRED - Top Stories" title="WIRED - Top Stories" xmlUrl="https://www.wired.com/feed/rss"/>
-        <outline type="rss" text="WIRED - Technology" title="WIRED - Technology" xmlUrl="https://www.wired.com/category/gear/feed/"/>
+        <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
+        <outline type="rss" text="WIRED - Top Stories" title="WIRED - Top Stories" xmlUrl="https://www.wired.com/feed/rss" />
+        <outline type="rss" text="WIRED - Technology" title="WIRED - Technology" xmlUrl="https://www.wired.com/category/gear/feed/" />
       </outline>
       <outline text="baseFeed.entertainment" title="baseFeed.entertainment">
-        <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss"/>
-        <outline type="rss" text="Movie TV Tech Geeks" title="Movie TV Tech Geeks" xmlUrl="https://movietvtechgeeks.com/feed/"/>
-        <outline type="rss" text="Reuters Entertainment" title="Reuters Entertainment" xmlUrl="https://www.reuters.com/rssFeed/entertainmentNews"/>
-      </outline>
+        <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss" />
+        <outline type="rss" text="Movie TV Tech Geeks" title="Movie TV Tech Geeks" xmlUrl="https://movietvtechgeeks.com/feed/" />
+        </outline>
       <outline text="baseFeed.cultureArt" title="baseFeed.cultureArt">
-        <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss"/>
-        <outline type="rss" text="Eurozine" title="Eurozine" xmlUrl="https://www.eurozine.com/feed/"/>
-      </outline>
+        <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss" />
+        </outline>
       <outline text="baseFeed.sports" title="baseFeed.sports">
-        <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml?edition=uk"/>
-        <outline type="rss" text="AP News Sports" title="AP News Sports" xmlUrl="https://apnews.com/hub/sports?format=rss"/>
-        <outline type="rss" text="Sky Sports News" title="Sky Sports News" xmlUrl="http://www.skysports.com/rss/12040"/>
+        <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml?edition=uk" />
+        <outline type="rss" text="Sky Sports News" title="Sky Sports News" xmlUrl="http://www.skysports.com/rss/12040" />
       </outline>
       <outline text="baseFeed.news" title="baseFeed.news">
-        <outline type="rss" text="BBC News - World" title="BBC News - World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"/>
-        <outline type="rss" text="DW English - All News" title="DW English - All News" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
-        <outline type="rss" text="Reuters Top News" title="Reuters Top News" xmlUrl="https://www.reuters.com/rssFeed/topNews"/>
-      </outline>
+        <outline type="rss" text="BBC News - World" title="BBC News - World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" />
+        <outline type="rss" text="DW English - All News" title="DW English - All News" xmlUrl="https://rss.dw.com/rdf/rss-en-all" />
+        </outline>
       <outline text="baseFeed.defense" title="baseFeed.defense">
-        <outline type="rss" text="Defense News" title="Defense News" xmlUrl="https://www.defensenews.com/rss/news/"/>
-        <outline type="rss" text="Breaking Defense" title="Breaking Defense" xmlUrl="https://breakingdefense.com/feed/"/>
+        <outline type="rss" text="Breaking Defense" title="Breaking Defense" xmlUrl="https://breakingdefense.com/feed/" />
       </outline>
       <outline text="baseFeed.economy" title="baseFeed.economy">
-        <outline type="rss" text="BBC Business" title="BBC Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml"/>
-        <outline type="rss" text="Reuters Business News" title="Reuters Business News" xmlUrl="https://www.reuters.com/rssFeed/businessNews"/>
-      </outline>
+        <outline type="rss" text="BBC Business" title="BBC Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml" />
+        </outline>
       <outline text="baseFeed.business" title="baseFeed.business">
-        <outline type="rss" text="Harvard Business Review" title="Harvard Business Review" xmlUrl="https://hbr.org/feed"/>
-        <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="https://www.fastcompany.com/rss"/>
+        <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="https://www.fastcompany.com/rss" />
       </outline>
       <outline text="baseFeed.lifestyle" title="baseFeed.lifestyle">
-        <outline type="rss" text="BBC Life - Style" title="BBC Life - Style" xmlUrl="https://feeds.bbci.co.uk/news/lifestyle/rss.xml"/>
-        <outline type="rss" text="Hindustan Times - Art - Culture" title="Hindustan Times - Art - Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml"/> 
+        <outline type="rss" text="Hindustan Times - Art - Culture" title="Hindustan Times - Art - Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml" /> 
       </outline>
     </outline>
   </body>
