@@ -8,8 +8,7 @@ on:
   schedule:
     - cron: "0 4 * * *"
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -17,35 +16,49 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install requests feedparser
+        run: pip install requests feedparser
 
       - name: Run feed checker
+        id: feeds
         run: |
-          python scripts/check_feeds.py
+          python scripts/check_feeds.py | tee output.txt
+
+          echo "total=$(grep TOTAL= output.txt | cut -d= -f2)" >> $GITHUB_OUTPUT
+          echo "success=$(grep SUCCESS= output.txt | cut -d= -f2)" >> $GITHUB_OUTPUT
+          echo "failed=$(grep FAILED= output.txt | cut -d= -f2)" >> $GITHUB_OUTPUT
+
+          awk '/TABLE<<EOF/{flag=1;next}/EOF/{flag=0}flag' output.txt > table.md
+          echo "table<<EOF" >> $GITHUB_OUTPUT
+          cat table.md >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Generate branch name
+        id: branch
+        run: |
+          echo "name=auto/remove-broken-feeds-$(date +%Y%m%d-%H%M%S)-$(uuidgen | cut -c1-6)" >> $GITHUB_OUTPUT
 
       - name: Create Pull Request
+        if: steps.feeds.outputs.failed != '0'
         uses: peter-evans/create-pull-request@v6
         with:
+          branch: ${{ steps.branch.outputs.name }}
+          base: main
+          delete-branch: true
           commit-message: "chore: remove broken RSS feeds"
           title: "🧹 Remove broken RSS feeds"
           body: |
-            This PR was automatically generated.
+            ## RSS Feed Health Report
 
-            Broken RSS feeds were detected and removed from `feeds.opml`.
-            Criteria:
-            - HTTP status not 200
-            - Invalid RSS/XML
-            - No entries
-            - Network errors / timeouts
-          branch: auto/remove-broken-feeds
-          delete-branch: true
+            **Total feeds:** ${{ steps.feeds.outputs.total }}
+            **Healthy:** ${{ steps.feeds.outputs.success }}
+            **Broken:** ${{ steps.feeds.outputs.failed }}
+
+            ### Details
+            ${{ steps.feeds.outputs.table }}
