@@ -1,0 +1,47 @@
+name: Auto remove broken RSS feeds
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  clean-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser
+
+      - name: Run feed checker
+        run: |
+          python scripts/check_feeds.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: remove broken RSS feeds"
+          title: "🧹 Remove broken RSS feeds"
+          body: |
+            This PR was automatically generated.
+
+            Broken RSS feeds were detected and removed from `feeds.opml`.
+            Criteria:
+            - HTTP status not 200
+            - Invalid RSS/XML
+            - No entries
+            - Network errors / timeouts
+          branch: auto/remove-broken-feeds
+          delete-branch: true
