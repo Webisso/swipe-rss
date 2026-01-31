@@ -45,14 +45,11 @@ jobs:
           cat table.md >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      - name: Upload artifacts (debug)
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: feed-check-output
-          path: |
-            output.txt
-            table.md
-            feeds.opml
+          path: feeds.opml
 
       - name: Cleanup temp files
         run: rm -f output.txt table.md
@@ -61,11 +58,21 @@ jobs:
   open-pull-request:
     runs-on: ubuntu-latest
     needs: feed-check
-
     if: needs.feed-check.outputs.failed != '0'
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Download updated feeds.opml
+        uses: actions/download-artifact@v4
+        with:
+          name: feed-check-output
+          path: .
+
+      - name: Verify changes
+        run: |
+          git status
+          git diff --stat
 
       - name: Generate branch name
         id: branch
