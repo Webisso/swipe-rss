@@ -1,13 +1,11 @@
 import xml.etree.ElementTree as ET
 import requests
 import feedparser
-import uuid
-from datetime import datetime
 
 FEED_FILE = "feeds.opml"
 TIMEOUT = 12
 
-headers = {
+HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -16,9 +14,10 @@ headers = {
     "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
 }
 
+
 def check_feed(url: str):
     try:
-        r = requests.get(url, timeout=TIMEOUT, headers=headers)
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
 
         if r.status_code != 200:
             return False, f"HTTP {r.status_code}"
@@ -37,38 +36,50 @@ def check_feed(url: str):
         return False, str(e)
 
 
+def find_parent(root, child):
+    for parent in root.iter():
+        if child in list(parent):
+            return parent
+    return None
+
+
 tree = ET.parse(FEED_FILE)
 root = tree.getroot()
 
 total = 0
-ok = 0
+success_count = 0
 failed = []
 
-# sadece child outline’ları dolaş
-for parent in root.findall(".//outline"):
-    for child in list(parent):
-        url = child.attrib.get("xmlUrl")
-        if not url:
-            continue
+outlines = list(root.findall(".//outline"))
 
-        total += 1
-        success, reason = check_feed(url)
+for outline in outlines:
+    url = outline.attrib.get("xmlUrl")
+    if not url:
+        continue
 
-        if success:
-            ok += 1
-        else:
-            failed.append({
-                "title": child.attrib.get("title", "—"),
-                "url": url,
-                "reason": reason
-            })
-            parent.remove(child)
+    total += 1
+    ok, reason = check_feed(url)
+
+    if ok:
+        success_count += 1
+        continue
+
+    failed.append({
+        "title": outline.attrib.get("title", "—"),
+        "url": url,
+        "reason": reason
+    })
+
+    parent = find_parent(root, outline)
+    if parent is not None:
+        parent.remove(outline)
 
 if failed:
     tree.write(FEED_FILE, encoding="utf-8", xml_declaration=True)
 
+
 print(f"TOTAL={total}")
-print(f"SUCCESS={ok}")
+print(f"SUCCESS={success_count}")
 print(f"FAILED={len(failed)}")
 
 print("TABLE<<EOF")
@@ -78,7 +89,7 @@ print("|------|-----|--------|")
 for f in failed:
     print(f"| {f['title']} | {f['url']} | ❌ {f['reason']} |")
 
-if ok:
-    print(f"| — | {ok} feeds | ✅ OK |")
+if success_count:
+    print(f"| — | {success_count} feeds | ✅ OK |")
 
 print("EOF")
