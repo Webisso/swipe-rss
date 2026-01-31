@@ -396,8 +396,8 @@
         <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="https://www.fastcompany.com/rss"/>
       </outline>
       <outline text="baseFeed.lifestyle" title="baseFeed.lifestyle">
-        <outline type="rss" text="BBC Life & Style" title="BBC Life & Style" xmlUrl="https://feeds.bbci.co.uk/news/lifestyle/rss.xml"/>
-        <outline type="rss" text="Hindustan Times - Art & Culture" title="Hindustan Times - Art & Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml"/> 
+        <outline type="rss" text="BBC Life - Style" title="BBC Life - Style" xmlUrl="https://feeds.bbci.co.uk/news/lifestyle/rss.xml"/>
+        <outline type="rss" text="Hindustan Times - Art - Culture" title="Hindustan Times - Art - Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml"/> 
       </outline>
     </outline>
   </body>
