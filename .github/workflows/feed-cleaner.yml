@@ -9,6 +9,8 @@ on:
     - cron: "0 4 * * *"
   push:
     branches: [main]
+    paths:
+      - feeds.opml
   workflow_dispatch:
 
 jobs:
