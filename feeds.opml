@@ -353,5 +353,52 @@
       <outline type="rss" text="PlumeMag" title="PlumeMag" xmlUrl="https://www.plumemag.com/feed/"/>
     </outline>
     </outline>
+     <outline language="en">
+      <outline text="baseFeed.science" title="baseFeed.science">
+        <outline type="rss" text="ScienceDaily - Top Science" title="ScienceDaily - Top Science" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml"/>
+        <outline type="rss" text="ScienceDaily - All News" title="ScienceDaily - All News" xmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
+        <outline type="rss" text="IFLScience" title="IFLScience" xmlUrl="https://iflscience.com/rss"/>
+      </outline>
+      <outline text="baseFeed.technology" title="baseFeed.technology">
+        <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/"/>
+        <outline type="rss" text="WIRED - Top Stories" title="WIRED - Top Stories" xmlUrl="https://www.wired.com/feed/rss"/>
+        <outline type="rss" text="WIRED - Technology" title="WIRED - Technology" xmlUrl="https://www.wired.com/category/gear/feed/"/>
+      </outline>
+      <outline text="baseFeed.entertainment" title="baseFeed.entertainment">
+        <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss"/>
+        <outline type="rss" text="Movie TV Tech Geeks" title="Movie TV Tech Geeks" xmlUrl="https://movietvtechgeeks.com/feed/"/>
+        <outline type="rss" text="Reuters Entertainment" title="Reuters Entertainment" xmlUrl="https://www.reuters.com/rssFeed/entertainmentNews"/>
+      </outline>
+      <outline text="baseFeed.cultureArt" title="baseFeed.cultureArt">
+        <outline type="rss" text="BBC Culture" title="BBC Culture" xmlUrl="https://www.bbc.com/culture/feed.rss"/>
+        <outline type="rss" text="Eurozine" title="Eurozine" xmlUrl="https://www.eurozine.com/feed/"/>
+      </outline>
+      <outline text="baseFeed.sports" title="baseFeed.sports">
+        <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml?edition=uk"/>
+        <outline type="rss" text="AP News Sports" title="AP News Sports" xmlUrl="https://apnews.com/hub/sports?format=rss"/>
+        <outline type="rss" text="Sky Sports News" title="Sky Sports News" xmlUrl="http://www.skysports.com/rss/12040"/>
+      </outline>
+      <outline text="baseFeed.news" title="baseFeed.news">
+        <outline type="rss" text="BBC News - World" title="BBC News - World" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml"/>
+        <outline type="rss" text="DW English - All News" title="DW English - All News" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+        <outline type="rss" text="Reuters Top News" title="Reuters Top News" xmlUrl="https://www.reuters.com/rssFeed/topNews"/>
+      </outline>
+      <outline text="baseFeed.defense" title="baseFeed.defense">
+        <outline type="rss" text="Defense News" title="Defense News" xmlUrl="https://www.defensenews.com/rss/news/"/>
+        <outline type="rss" text="Breaking Defense" title="Breaking Defense" xmlUrl="https://breakingdefense.com/feed/"/>
+      </outline>
+      <outline text="baseFeed.economy" title="baseFeed.economy">
+        <outline type="rss" text="BBC Business" title="BBC Business" xmlUrl="https://feeds.bbci.co.uk/news/business/rss.xml"/>
+        <outline type="rss" text="Reuters Business News" title="Reuters Business News" xmlUrl="https://www.reuters.com/rssFeed/businessNews"/>
+      </outline>
+      <outline text="baseFeed.business" title="baseFeed.business">
+        <outline type="rss" text="Harvard Business Review" title="Harvard Business Review" xmlUrl="https://hbr.org/feed"/>
+        <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="https://www.fastcompany.com/rss"/>
+      </outline>
+      <outline text="baseFeed.lifestyle" title="baseFeed.lifestyle">
+        <outline type="rss" text="BBC Life & Style" title="BBC Life & Style" xmlUrl="https://feeds.bbci.co.uk/news/lifestyle/rss.xml"/>
+        <outline type="rss" text="Hindustan Times - Art & Culture" title="Hindustan Times - Art & Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml"/> 
+      </outline>
+    </outline>
   </body>
 </opml>
