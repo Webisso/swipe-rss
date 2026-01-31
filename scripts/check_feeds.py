@@ -14,11 +14,16 @@ removed = []
 
 def is_feed_broken(url: str) -> str | None:
     try:
-        r = requests.get(
-            url,
-            timeout=TIMEOUT,
-            headers={"User-Agent": "SwipeRSS-FeedChecker/1.0"}
-        )
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/120.0.0.0 Safari/537.36"
+            ),
+            "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
+        }
+
+        r = requests.get(url, timeout=TIMEOUT, headers=headers)
 
         if r.status_code != 200:
             return f"HTTP {r.status_code}"
@@ -36,7 +41,6 @@ def is_feed_broken(url: str) -> str | None:
     except Exception as e:
         return str(e)
 
-# OPML'de xmlUrl olan tüm outline'ları bul
 for parent in root.findall(".//outline"):
     children = list(parent)
     for child in children:

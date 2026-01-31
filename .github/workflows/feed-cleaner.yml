@@ -1,5 +1,9 @@
 name: Auto remove broken RSS feeds
 
+permissions:
+  contents: write
+  pull-requests: write
+
 on:
   schedule:
     - cron: "0 4 * * *"
