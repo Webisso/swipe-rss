@@ -95,7 +95,6 @@
       <outline type="rss" text="Öncül" title="Öncül" xmlUrl="https://onculanalitikfelsefe.com/feed/" />
       <outline type="rss" text="Rotka" title="Rotka" xmlUrl="https://www.rotka.org/feed/" />
       <outline type="rss" text="Terrabayt" title="Terrabayt" xmlUrl="https://terrabayt.com/feed" />
-      <outline type="rss" text="Vesaire" title="Vesaire" xmlUrl="https://vesaire.press/feed/" />
       <outline type="rss" text="Yedikıta" title="Yedikıta" xmlUrl="https://yedikita.com.tr/feed/" />
     </outline>
     <outline text="baseFeed.sports" title="baseFeed.sports">
@@ -121,7 +120,6 @@
       <outline type="rss" text="NTV Spor Olimpiyat" title="NTV Spor Olimpiyat" xmlUrl="https://www.ntvspor.net/rss/kategori/olimpiyat" />
       <outline type="rss" text="NTV Spor Tenis" title="NTV Spor Tenis" xmlUrl="https://www.ntvspor.net/rss/kategori/tenis" />
       <outline type="rss" text="NTV Spor Voleybol" title="NTV Spor Voleybol" xmlUrl="https://www.ntvspor.net/rss/kategori/voleybol" />
-      <outline type="rss" text="Sözcü 2024 Paris Olimpiyatları" title="Sözcü 2024 Paris Olimpiyatları" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-2024-paris-olimpiyatlari" />
       <outline type="rss" text="Sözcü Basketbol" title="Sözcü Basketbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-basketbol" />
       <outline type="rss" text="Sözcü Diğer Sporlar" title="Sözcü Diğer Sporlar" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-diger-sporlar" />
       <outline type="rss" text="Sözcü Dünyadan Futbol" title="Sözcü Dünyadan Futbol" xmlUrl="https://www.sozcu.com.tr/feeds-rss-category-dunyadan-spor" />
