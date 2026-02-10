@@ -9,7 +9,6 @@
       <outline type="rss" text="Arkeofili" title="Arkeofili" xmlUrl="https://arkeofili.com/feed/" />
       <outline type="rss" text="Beyinsizler" title="Beyinsizler" xmlUrl="https://beyinsizler.net/feed/" />
       <outline type="rss" text="Bilim Günlüğü" title="Bilim Günlüğü" xmlUrl="https://www.bilimgunlugu.com/feed/" />
-      <outline type="rss" text="Bilim ve Gelecek" title="Bilim ve Gelecek" xmlUrl="https://bilimvegelecek.com.tr/index.php/feed/" />
       <outline type="rss" text="Bilimoloji" title="Bilimoloji" xmlUrl="https://www.bilimoloji.com/feed/" />
       <outline type="rss" text="Bilimup" title="Bilimup" xmlUrl="https://www.bilimup.com/rss.xml" />
       <outline type="rss" text="DijitalX" title="DijitalX" xmlUrl="https://www.dijitalx.com/feed/" />
@@ -44,7 +43,6 @@
       <outline type="rss" text="Teknolojioku" title="Teknolojioku" xmlUrl="https://www.teknolojioku.com/export/rss" />
       <outline type="rss" text="TeknoBurada" title="TeknoBurada" xmlUrl="https://www.teknoburada.net/feed/" />
       <outline type="rss" text="Tam İndir" title="Tam İndir" xmlUrl="https://feeds.feedburner.com/tamindir/stream" />
-      <outline type="rss" text="VoiceTekno" title="VoiceTekno" xmlUrl="https://voicetekno.com/feed/" />
       <outline type="rss" text="Webrazzi" title="Webrazzi" xmlUrl="https://webrazzi.com/feed" />
       <outline type="rss" text="Webtekno" title="Webtekno" xmlUrl="https://www.webtekno.com/rss.xml" />
     </outline>
@@ -70,7 +68,6 @@
       <outline type="rss" text="Öteki Sinema" title="Öteki Sinema" xmlUrl="https://www.otekisinema.com/feed/" />
       <outline type="rss" text="Sofos" title="Sofos" xmlUrl="https://blog.sofos.com.tr/feed/" />
       <outline type="rss" text="Sinetopya" title="Sinetopya" xmlUrl="https://sinetopya.com/rss/" />
-      <outline type="rss" text="The Geyik" title="The Geyik" xmlUrl="https://www.thegeyik.com/feed/" />
       <outline type="rss" text="Turuncu Levye" title="Turuncu Levye" xmlUrl="https://www.turunculevye.com/feed/" />
     </outline>
     <outline text="baseFeed.cultureArt" title="baseFeed.cultureArt">
@@ -155,7 +152,6 @@
       <outline type="rss" text="Diriliş Postası" title="Diriliş Postası" xmlUrl="https://www.dirilispostasi.com/rss" />
       <outline type="rss" text="Diyanet Haber" title="Diyanet Haber" xmlUrl="https://www.diyanethaber.com.tr/rss" />
       <outline type="rss" text="Dijital Gaste" title="Dijital Gaste" xmlUrl="https://www.dijitalgaste.com/rss" />
-      <outline type="rss" text="dikGAZETE" title="dikGAZETE" xmlUrl="https://www.dikgazete.com/xml/rss.xml" />
       <outline type="rss" text="Doğru Haber" title="Doğru Haber" xmlUrl="https://dogruhaber.com.tr/rss" />
       <outline type="rss" text="Dokuz8 Haber" title="Dokuz8 Haber" xmlUrl="https://www.dokuz8haber.net/rss" />
       <outline type="rss" text="Dünya" title="Dünya" xmlUrl="https://www.dunya.com/rss?dunya" />
@@ -177,7 +173,6 @@
       <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss" />
       <outline type="rss" text="Haberet" title="Haberet" xmlUrl="https://www.haberet.com/export/rss" />
       <outline type="rss" text="Halk TV" title="Halk TV" xmlUrl="https://halktv.com.tr/service/rss.php" />
-      <outline type="rss" text="Haberport" title="Haberport" xmlUrl="https://www.haberport.com/rss/latest-posts" />
       <outline type="rss" text="Haberiniz" title="Haberiniz" xmlUrl="https://haberiniz.com.tr/feed/" />
       <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa" />
       <outline type="rss" text="İklim Haber" title="İklim Haber" xmlUrl="https://www.iklimhaber.org/feed/" />
@@ -287,8 +282,7 @@
       <outline type="rss" text="Medium Türkçe Yayın" title="Medium Türkçe Yayın" xmlUrl="https://medium.com/feed/t%C3%BCrkiye" />
       <outline type="rss" text="Medium Türkiye Yayını" title="Medium Türkiye Yayını" xmlUrl="https://mediumturkiye.com/feed" />
       <outline type="rss" text="Uplifers" title="Uplifers" xmlUrl="https://www.uplifers.com/feed/" />
-      <outline type="rss" text="PlumeMag" title="PlumeMag" xmlUrl="https://www.plumemag.com/feed/" />
-    </outline>
+      </outline>
     </outline>
      <outline language="en">
       <outline text="baseFeed.science" title="baseFeed.science">
