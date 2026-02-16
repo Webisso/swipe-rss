@@ -132,7 +132,6 @@
     <outline text="baseFeed.news" title="baseFeed.news">
       <outline type="rss" text="10Haber" title="10Haber" xmlUrl="https://10haber.net/feed/" />
       <outline type="rss" text="A Haber" title="A Haber" xmlUrl="https://www.ahaber.com.tr/rss/gundem.xml" />
-      <outline type="rss" text="Açık Gazete" title="Açık Gazete" xmlUrl="https://www.acikgazete.com/feed/" />
       <outline type="rss" text="Akşam" title="Akşam" xmlUrl="https://www.aksam.com.tr/rss/rss.asp" />
       <outline type="rss" text="Al Ain Türkçe" title="Al Ain Türkçe" xmlUrl="https://tr.al-ain.com/feed" />
       <outline type="rss" text="Anadolu Ajansı" title="Anadolu Ajansı" xmlUrl="https://www.aa.com.tr/tr/rss/default?cat=guncel" />
@@ -155,7 +154,6 @@
       <outline type="rss" text="Diriliş Postası" title="Diriliş Postası" xmlUrl="https://www.dirilispostasi.com/rss" />
       <outline type="rss" text="Diyanet Haber" title="Diyanet Haber" xmlUrl="https://www.diyanethaber.com.tr/rss" />
       <outline type="rss" text="Dijital Gaste" title="Dijital Gaste" xmlUrl="https://www.dijitalgaste.com/rss" />
-      <outline type="rss" text="dikGAZETE" title="dikGAZETE" xmlUrl="https://www.dikgazete.com/xml/rss.xml" />
       <outline type="rss" text="Doğru Haber" title="Doğru Haber" xmlUrl="https://dogruhaber.com.tr/rss" />
       <outline type="rss" text="Dokuz8 Haber" title="Dokuz8 Haber" xmlUrl="https://www.dokuz8haber.net/rss" />
       <outline type="rss" text="Dünya" title="Dünya" xmlUrl="https://www.dunya.com/rss?dunya" />
@@ -169,7 +167,6 @@
       <outline type="rss" text="Gazete Pencere" title="Gazete Pencere" xmlUrl="https://www.gazetepencere.com/service/rss.php" />
       <outline type="rss" text="Gerçek Gündem" title="Gerçek Gündem" xmlUrl="https://www.gercekgundem.com/rss" />
       <outline type="rss" text="GZT" title="GZT" xmlUrl="https://www.gzt.com/rss" />
-      <outline type="rss" text="Haber 3" title="Haber 3" xmlUrl="https://www.haber3.com/rss" />
       <outline type="rss" text="Haber 7" title="Haber 7" xmlUrl="https://i12.haber7.net/sondakika/newsstand/latest.xml" />
       <outline type="rss" text="Haber" title="Haber" xmlUrl="https://www.haber.com/rss" />
       <outline type="rss" text="Haberler" title="Haberler" xmlUrl="https://rss.haberler.com/RssNew.aspx" />
@@ -177,7 +174,6 @@
       <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss" />
       <outline type="rss" text="Haberet" title="Haberet" xmlUrl="https://www.haberet.com/export/rss" />
       <outline type="rss" text="Halk TV" title="Halk TV" xmlUrl="https://halktv.com.tr/service/rss.php" />
-      <outline type="rss" text="Haberport" title="Haberport" xmlUrl="https://www.haberport.com/rss/latest-posts" />
       <outline type="rss" text="Haberiniz" title="Haberiniz" xmlUrl="https://haberiniz.com.tr/feed/" />
       <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa" />
       <outline type="rss" text="İklim Haber" title="İklim Haber" xmlUrl="https://www.iklimhaber.org/feed/" />
@@ -223,7 +219,6 @@
       <outline type="rss" text="Tele2" title="Tele2" xmlUrl="https://www.tele2haber.com/rss" />
       <outline type="rss" text="Timeturk" title="Timeturk" xmlUrl="https://www.timeturk.com/rss/" />
       <outline type="rss" text="Türkiye Gazetesi" title="Türkiye Gazetesi" xmlUrl="https://www.turkiyegazetesi.com.tr/feed" />
-      <outline type="rss" text="Türkgün" title="Türkgün" xmlUrl="https://www.turkgun.com/rss/news" />
       <outline type="rss" text="TRT Haber" title="TRT Haber" xmlUrl="https://www.trthaber.com/sondakika.rss" />
       <outline type="rss" text="TGRT Haber" title="TGRT Haber" xmlUrl="https://www.tgrthaber.com/rss/manset" />
       <outline type="rss" text="Ulusal Kanal" title="Ulusal Kanal" xmlUrl="https://www.ulusal.com.tr/rss" />
