@@ -5,8 +5,8 @@ permissions:
   pull-requests: write
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
+  # schedule:
+   # - cron: "0 4 * * *"
   push:
     branches: [main]
     paths:
