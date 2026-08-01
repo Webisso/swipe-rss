@@ -51,7 +51,6 @@
     <outline text="baseFeed.entertainment" title="baseFeed.entertainment">
       <outline type="rss" text="22 Dakika" title="22 Dakika" xmlUrl="https://22dakika.org/feed/" />
       <outline type="rss" text="Atarita" title="Atarita" xmlUrl="https://www.atarita.com/feed/" />
-      <outline type="rss" text="Bağımsız Sinema" title="Bağımsız Sinema" xmlUrl="https://www.bagimsizsinema.com/feed" />
       <outline type="rss" text="Beyaz Perde" title="Beyaz Perde" xmlUrl="https://www.beyazperde.com/rss/haberler.xml" />
       <outline type="rss" text="Bigumigu" title="Bigumigu" xmlUrl="https://bigumigu.com/feed/" />
       <outline type="rss" text="Bilimkurgu Kulübü" title="Bilimkurgu Kulübü" xmlUrl="https://www.bilimkurgukulubu.com/feed/" />
@@ -155,7 +154,6 @@
       <outline type="rss" text="Diriliş Postası" title="Diriliş Postası" xmlUrl="https://www.dirilispostasi.com/rss" />
       <outline type="rss" text="Diyanet Haber" title="Diyanet Haber" xmlUrl="https://www.diyanethaber.com.tr/rss" />
       <outline type="rss" text="Dijital Gaste" title="Dijital Gaste" xmlUrl="https://www.dijitalgaste.com/rss" />
-      <outline type="rss" text="dikGAZETE" title="dikGAZETE" xmlUrl="https://www.dikgazete.com/xml/rss.xml" />
       <outline type="rss" text="Doğru Haber" title="Doğru Haber" xmlUrl="https://dogruhaber.com.tr/rss" />
       <outline type="rss" text="Dokuz8 Haber" title="Dokuz8 Haber" xmlUrl="https://www.dokuz8haber.net/rss" />
       <outline type="rss" text="Dünya" title="Dünya" xmlUrl="https://www.dunya.com/rss?dunya" />
@@ -177,7 +175,6 @@
       <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss" />
       <outline type="rss" text="Haberet" title="Haberet" xmlUrl="https://www.haberet.com/export/rss" />
       <outline type="rss" text="Halk TV" title="Halk TV" xmlUrl="https://halktv.com.tr/service/rss.php" />
-      <outline type="rss" text="Haberport" title="Haberport" xmlUrl="https://www.haberport.com/rss/latest-posts" />
       <outline type="rss" text="Haberiniz" title="Haberiniz" xmlUrl="https://haberiniz.com.tr/feed/" />
       <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa" />
       <outline type="rss" text="İklim Haber" title="İklim Haber" xmlUrl="https://www.iklimhaber.org/feed/" />
@@ -248,7 +245,6 @@
       <outline type="rss" text="CNBC-e" title="CNBC-e" xmlUrl="https://www.cnbce.com/rss" />
       <outline type="rss" text="Ekonomi Gazetesi" title="Ekonomi Gazetesi" xmlUrl="https://www.ekonomigazetesi.com/rss.xml" />
       <outline type="rss" text="Forbes Türkiye" title="Forbes Türkiye" xmlUrl="https://www.forbes.com.tr/rss" />
-      <outline type="rss" text="Foreks" title="Foreks" xmlUrl="https://www.foreks.com/rss/" />
       <outline type="rss" text="Investing Genel" title="Investing Genel" xmlUrl="https://tr.investing.com/rss/market_overview.rss" />
       <outline type="rss" text="Investing Kripto" title="Investing Kripto" xmlUrl="https://tr.investing.com/rss/302.rss" />
       <outline type="rss" text="Investing Döviz" title="Investing Döviz" xmlUrl="https://tr.investing.com/rss/forex.rss" />
