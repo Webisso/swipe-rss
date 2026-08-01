@@ -51,7 +51,6 @@
     <outline text="baseFeed.entertainment" title="baseFeed.entertainment">
       <outline type="rss" text="22 Dakika" title="22 Dakika" xmlUrl="https://22dakika.org/feed/" />
       <outline type="rss" text="Atarita" title="Atarita" xmlUrl="https://www.atarita.com/feed/" />
-      <outline type="rss" text="Bağımsız Sinema" title="Bağımsız Sinema" xmlUrl="https://www.bagimsizsinema.com/feed" />
       <outline type="rss" text="Beyaz Perde" title="Beyaz Perde" xmlUrl="https://www.beyazperde.com/rss/haberler.xml" />
       <outline type="rss" text="Bigumigu" title="Bigumigu" xmlUrl="https://bigumigu.com/feed/" />
       <outline type="rss" text="Bilimkurgu Kulübü" title="Bilimkurgu Kulübü" xmlUrl="https://www.bilimkurgukulubu.com/feed/" />
@@ -95,7 +94,6 @@
       <outline type="rss" text="Öncül" title="Öncül" xmlUrl="https://onculanalitikfelsefe.com/feed/" />
       <outline type="rss" text="Rotka" title="Rotka" xmlUrl="https://www.rotka.org/feed/" />
       <outline type="rss" text="Terrabayt" title="Terrabayt" xmlUrl="https://terrabayt.com/feed" />
-      <outline type="rss" text="Vesaire" title="Vesaire" xmlUrl="https://vesaire.press/feed/" />
       <outline type="rss" text="Yedikıta" title="Yedikıta" xmlUrl="https://yedikita.com.tr/feed/" />
     </outline>
     <outline text="baseFeed.sports" title="baseFeed.sports">
@@ -150,18 +148,14 @@
       <outline type="rss" text="BirGün" title="BirGün" xmlUrl="https://www.birgun.net/rss/home" />
       <outline type="rss" text="CNN Türk" title="CNN Türk" xmlUrl="https://www.cnnturk.com/feed/rss/all/news" />
       <outline type="rss" text="Cumhuriyet" title="Cumhuriyet" xmlUrl="https://www.cumhuriyet.com.tr/rss/son_dakika.xml" />
-      <outline type="rss" text="CGTN Türk" title="CGTN Türk" xmlUrl="https://www.cgtnturk.com/rss" />
       <outline type="rss" text="Diken" title="Diken" xmlUrl="https://www.diken.com.tr/feed/" />
-      <outline type="rss" text="Diriliş Postası" title="Diriliş Postası" xmlUrl="https://www.dirilispostasi.com/rss" />
       <outline type="rss" text="Diyanet Haber" title="Diyanet Haber" xmlUrl="https://www.diyanethaber.com.tr/rss" />
       <outline type="rss" text="Dijital Gaste" title="Dijital Gaste" xmlUrl="https://www.dijitalgaste.com/rss" />
       <outline type="rss" text="dikGAZETE" title="dikGAZETE" xmlUrl="https://www.dikgazete.com/xml/rss.xml" />
       <outline type="rss" text="Doğru Haber" title="Doğru Haber" xmlUrl="https://dogruhaber.com.tr/rss" />
-      <outline type="rss" text="Dokuz8 Haber" title="Dokuz8 Haber" xmlUrl="https://www.dokuz8haber.net/rss" />
       <outline type="rss" text="Dünya" title="Dünya" xmlUrl="https://www.dunya.com/rss?dunya" />
       <outline type="rss" text="DW Haber" title="DW Haber" xmlUrl="https://rss.dw.com/rdf/rss-tur-all" />
       <outline type="rss" text="En Politik" title="En Politik" xmlUrl="https://www.enpolitik.com/rss.xml" />
-      <outline type="rss" text="Elips Haber" title="Elips Haber" xmlUrl="https://www.elipshaber.com/rss" />
       <outline type="rss" text="Ekonomim" title="Ekonomim" xmlUrl="https://www.ekonomim.com/export/rss" />
       <outline type="rss" text="En Son Haber" title="En Son Haber" xmlUrl="https://www.ensonhaber.com/rss/ensonhaber.xml" />
       <outline type="rss" text="F5 Haber" title="F5 Haber" xmlUrl="https://www.f5haber.com/export/rss" />
@@ -177,7 +171,6 @@
       <outline type="rss" text="Habertürk" title="Habertürk" xmlUrl="https://www.haberturk.com/rss" />
       <outline type="rss" text="Haberet" title="Haberet" xmlUrl="https://www.haberet.com/export/rss" />
       <outline type="rss" text="Halk TV" title="Halk TV" xmlUrl="https://halktv.com.tr/service/rss.php" />
-      <outline type="rss" text="Haberport" title="Haberport" xmlUrl="https://www.haberport.com/rss/latest-posts" />
       <outline type="rss" text="Haberiniz" title="Haberiniz" xmlUrl="https://haberiniz.com.tr/feed/" />
       <outline type="rss" text="Hürriyet" title="Hürriyet" xmlUrl="https://www.hurriyet.com.tr/rss/anasayfa" />
       <outline type="rss" text="İklim Haber" title="İklim Haber" xmlUrl="https://www.iklimhaber.org/feed/" />
@@ -248,7 +241,6 @@
       <outline type="rss" text="CNBC-e" title="CNBC-e" xmlUrl="https://www.cnbce.com/rss" />
       <outline type="rss" text="Ekonomi Gazetesi" title="Ekonomi Gazetesi" xmlUrl="https://www.ekonomigazetesi.com/rss.xml" />
       <outline type="rss" text="Forbes Türkiye" title="Forbes Türkiye" xmlUrl="https://www.forbes.com.tr/rss" />
-      <outline type="rss" text="Foreks" title="Foreks" xmlUrl="https://www.foreks.com/rss/" />
       <outline type="rss" text="Investing Genel" title="Investing Genel" xmlUrl="https://tr.investing.com/rss/market_overview.rss" />
       <outline type="rss" text="Investing Kripto" title="Investing Kripto" xmlUrl="https://tr.investing.com/rss/302.rss" />
       <outline type="rss" text="Investing Döviz" title="Investing Döviz" xmlUrl="https://tr.investing.com/rss/forex.rss" />
@@ -276,11 +268,6 @@
     </outline>
     <outline text="baseFeed.lifestyle" title="baseFeed.lifestyle">
       <outline type="rss" text="Anne Kaz" title="Anne Kaz" xmlUrl="https://www.annekaz.com/feed" />
-      <outline type="rss" text="İşin Detayı Gastronomi" title="İşin Detayı Gastronomi" xmlUrl="https://www.isindetayi.com/rss/gastronomi" />
-      <outline type="rss" text="İşin Detayı Moda" title="İşin Detayı Moda" xmlUrl="https://www.isindetayi.com/rss/moda" />
-      <outline type="rss" text="İşin Detayı Sağlık" title="İşin Detayı Sağlık" xmlUrl="https://www.isindetayi.com/rss/saglik" />
-      <outline type="rss" text="İşin Detayı Turizm" title="İşin Detayı Turizm" xmlUrl="https://www.isindetayi.com/rss/turizm" />
-      <outline type="rss" text="İşin Detayı Yaşam" title="İşin Detayı Yaşam" xmlUrl="https://www.isindetayi.com/rss/yasam" />
       <outline type="rss" text="Istanbul Life" title="Istanbul Life" xmlUrl="https://istanbullife.com.tr/feed/" />
       <outline type="rss" text="Live To Bloom" title="Live To Bloom" xmlUrl="https://livetobloom.com/feed/" />
       <outline type="rss" text="Martı Dergisi" title="Martı Dergisi" xmlUrl="https://www.martidergisi.com/feed/" />
