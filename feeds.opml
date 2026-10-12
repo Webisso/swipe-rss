@@ -327,5 +327,10 @@
         <outline type="rss" text="Hindustan Times - Art - Culture" title="Hindustan Times - Art - Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml" /> 
       </outline>
     </outline>
+    <outline language="ja">
+      <outline text="baseFeed.technology" title="baseFeed.technology">
+        <outline type="rss" text="情報の灯台" title="情報の灯台" xmlUrl="https://joho-todai.com/pinterest-rss/" />
+      </outline>
+    </outline>
   </body>
 </opml>
