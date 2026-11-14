@@ -327,5 +327,10 @@
         <outline type="rss" text="Hindustan Times - Art - Culture" title="Hindustan Times - Art - Culture" xmlUrl="https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml" /> 
       </outline>
     </outline>
+    <outline language="zh">
+      <outline text="baseFeed.technology" title="baseFeed.technology">
+        <outline type="rss" text="AIHOT Daily" title="AIHOT 日报" xmlUrl="https://aihot.news/feed/daily.xml" />
+      </outline>
+    </outline>
   </body>
 </opml>
